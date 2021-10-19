@@ -22,6 +22,7 @@
 - [ ] [iopscience - Accuracy Improvement of UNet Based on Dilated Convolution](https://iopscience.iop.org/article/10.1088/1742-6596/1345/5/052066/pdf)
 - [ ] [openaccess - Deep Frequency Re-calibration U-Net for Medical Image Segmentation - by maryam asadi](https://openaccess.thecvf.com/content/ICCV2021W/CVAMD/papers/Azad_Deep_Frequency_Re-Calibration_U-Net_for_Medical_Image_Segmentation_ICCVW_2021_paper.pdf)
 - [ ] [Attention U-Net: Learning Where to Look for the Pancreas](https://arxiv.org/pdf/1804.03999.pdf%E4%BB%A3%E7%A0%81%E5%9C%B0%E5%9D%80%EF%BC%9Ahttps://github.com/ozan-oktay/Attention-Gated-Networks)
+- [ ] [Combining 3D U-Net and bottom-up geometric constraintsfor automatic cortical sulci recognition - open without vpn](https://openreview.net/pdf?id=ryl0VTZCtV)
 - [ ] 
 
 
@@ -132,4 +133,5 @@
 - [ ] [3 Steps Are All You Need to Achieve SOTA in MICCAI 2020 Thyroid Nodule Segmentation Challenge](https://miccai-sb.github.io/materials/mec2020/2020_MaJ.pdf)
 	- [ ] [Loss Functions for Medical Image Segmentation: A Taxonomy](https://miccai-sb.github.io/materials/Ma2019.pdf)
 - [ ] [Information Processing in Medical Imaging (IPMI) 2021](http://ipmi2021.org/)
+- [ ] [paperwithcode - Medical Image Segmentation ](https://paperswithcode.com/task/medical-image-segmentation/latest)
 - [ ] 
