@@ -13,7 +13,11 @@
 
 
 
+
+
+
 ## Papers
+
 - [ ] [arxiv - U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/pdf/1505.04597.pdf)
 	- [ ] [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://link.springer.com/content/pdf/10.1007/978-3-319-24574-4_28.pdf)
 - [X] [mdpi - A Review of Deep-Learning-Based Medical Image Segmentation Methods - Dr.Mazlaghani](https://www.mdpi.com/2071-1050/13/3/1224/pdf)
@@ -25,13 +29,42 @@
 - [ ] [Combining 3D U-Net and bottom-up geometric constraintsfor automatic cortical sulci recognition - open without vpn](https://openreview.net/pdf?id=ryl0VTZCtV)
 - [ ] [arxiv - AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE - (GOOD)](https://arxiv.org/pdf/2010.11929.pdf)
 - [ ] [arxiv - Medical Transformer: Gated Axial-Attention for Medical Image Segmentation](https://arxiv.org/pdf/2102.10662.pdf)
+	- [ ] [arxiv (v1-old) - Medical Transformer: Gated Axial-Attention for Medical Image Segmentation](https://arxiv.org/pdf/2102.10662v1.pdf)
 	- [ ] [github - (Medical-Transformer)](https://github.com/jeya-maria-jose/Medical-Transformer)
 - [ ] [doi - Deep Learning Single-Frame and Multiframe Super- Resolution for Cardiac MRI](https://pubs.rsna.org/doi/pdf/10.1148/radiol.2020192173)
-- [ ] 
+- [ ] [arxiv - TransFuse: Fusing Transformers and CNNs for Medical Image Segmentation](https://arxiv.org/pdf/2102.08005.pdf)
+- [ ] [arxiv - DS-TransUNet: Dual Swin Transformer U-Net for Medical Image Segmentation](https://arxiv.org/pdf/2106.06716.pdf)
+- [ ] [arxiv - Multi-Compound Transformer for Accurate Biomedical Image Segmentation](https://arxiv.org/pdf/2106.14385.pdf)
+	- [ ] [github-page](https://github.com/JiYuanFeng/MCTrans) 
+- [ ] [arxiv - SpecTr: Spectral Transformer for HyperspectralPathology Image Segmentation](https://arxiv.org/pdf/2103.03604.pdf)
+- [ ] [arxiv - Transformer-Unet: Raw Image Processing with Unet](https://arxiv.org/pdf/2109.08417.pdf)
+- [ ] [UCTransNet: Rethinking the Skip Connections in U-Net from a Channel-wise Perspective with Transformer](https://arxiv.org/pdf/2109.04335.pdf)
+- [ ] [arxiv - TRANSCLAW U-NET: CLAW U-NET WITH TRANSFORMERS FOR MEDICAL IMAGESEGMENTATION](https://arxiv.org/pdf/2107.05188.pdf)
+- [ ] [arxiv - TransAttUnet: Multi-level Attention-guided U-Netwith Transformer for Medical Image Segmentation](https://arxiv.org/pdf/2107.05274.pdf)
+- [ ] [arxiv - Medical Transformer: Universal Brain Encoder for 3D MRI Analysis](https://arxiv.org/pdf/2104.13633.pdf)
+- [ ] [arxiv - TransMed: Transformers Advance Multi-modal Medical Image Classification](https://arxiv.org/pdf/2103.05940.pdf)
+- [ ] [arxiv - U-Net Transformer: Self and Cross Attention forMedical Image Segmentation](https://arxiv.org/pdf/2103.06104.pdf)
+- [ ] [arxiv - UTNet: A Hybrid Transformer Architecture for Medical Image Segmentation](https://arxiv.org/pdf/2107.00781.pdf)
+- [ ] [arxiv - Medical Image Segmentation Using Squeeze-and-Expansion Transformers](https://arxiv.org/pdf/2105.09511.pdf)
+- [ ] [arxiv - UNETR: Transformers for 3D Medical Image Segmentation](https://arxiv.org/pdf/2103.10504.pdf)
+- [ ] [arxiv - Convolution-Free Medical Image Segmentation using Transformers](https://arxiv.org/pdf/2102.13645.pdf)
+- [ ] [arxiv - TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation](https://arxiv.org/pdf/2102.04306.pdf)
+- [ ] [arxiv - Pyramid Medical Transformer for Medical Image Segmentation](https://arxiv.org/ftp/arxiv/papers/2104/2104.14702.pdf)
+- [ ] [arxiv - LEVIT-UNET: MAKE FASTER ENCODERS WITH TRANSFORMER FOR MEDICAL IMAGE SEGMENTATION](https://arxiv.org/pdf/2107.08623.pdf)
+- [ ] [arxiv - MISSFormer: An Effective Medical Image Segmentation Transformer](https://arxiv.org/pdf/2109.07162.pdf)
+- [ ] [arxiv - More than Encoder: Introducing Transformer Decoder to Upsample](https://arxiv.org/pdf/2106.10637.pdf)
+- [ ] [arxiv - Segmenter: Transformer for Semantic Segmentation](https://arxiv.org/pdf/2105.05633.pdf)
+- [این لیتک کار نکرد و ناگهان آرکسیو بسته شد](https://arxiv.org/pdf/2012.15840.pdf)
+- [این لیتک کار نکرد و ناگهان آرکسیو بسته شد](https://arxiv.org/pdf/2101.11605.pdf)
+- [این لیتک کار نکرد و ناگهان آرکسیو بسته شد](https://arxiv.org/ftp/arxiv/papers/2107/2107.04847.pdf)
+
+
+
 
 
 
 ## Datsets
+
 - [ ] [cell tracking challenge](http://celltrackingchallenge.net/)
 - [ ] [LiTS - Liver Tumor Segmentation Challenge](https://competitions.codalab.org/competitions/17094#results)
 - [ ] [LIDC-IDRI](https://wiki.cancerimagingarchive.net/display/Public/LIDC-IDRI)
@@ -64,7 +97,9 @@
 
 
 
-## Sites
+
+
+## Sites & Tutorials
 - [ ] [nilearn - Plotting brain images](https://nilearn.github.io/plotting/index.html#plotting-brain-images)
 - [ ] [kaggle - NeuroImaging: In Depth Understanding,EDA,Model](https://www.kaggle.com/saife245/neuroimaging-in-depth-understanding-eda-model)
 - [ ] [kaggle - TReNDS - EDA + Visualization + Simple Baseline](https://www.kaggle.com/rohitsingh9990/trends-eda-visualization-simple-baseline)
@@ -83,7 +118,7 @@
 - [ ] [youtube - PyTorch Image Segmentation Tutorial with U-NET: everything from scratch baby](https://www.youtube.com/watch?v=IHq1t7NxS8k&list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz&index=43)
 - [ ] [site - The Beginner’s Guide to Semantic Segmentation](https://www.v7labs.com/blog/semantic-segmentation-guide)
 - [ ] [Image Segmentation with U-net and Keras!](https://www.youtube.com/watch?v=7qJzp3i62S8)
-- [ ] [aut.meeting - medical image segmentation lecture by maryam asadi](https://meetings.aut.ac.ir/ppr9w1df7fmb)
+- [X] [aut.meeting - medical image segmentation lecture by maryam asadi](https://meetings.aut.ac.ir/ppr9w1df7fmb)
 - [ ] [youtube - CAP5415 Lecture 15 (Image Segmentation 1 - Part 1) - Fall 2020](https://www.youtube.com/watch?v=eyRYsBFkgZk)
 	- [ ] [CAP5415 Lecture 16 (Image Segmentation 2) - Fall 2020](https://www.youtube.com/watch?v=b9pKV66ZXsQ)
 - [ ] [youtube - Lecture 16: Detection and Segmentation](https://www.youtube.com/watch?v=9AyMR4IhSWQ&list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r&index=17)
@@ -102,11 +137,15 @@
 - [ ] [paperwithcode - Medical Image Segmentation ](https://paperswithcode.com/task/medical-image-segmentation/latest)
 - [ ] [paperwithcode - Medical Image Segmentation on Synapse multi-organ CT](https://paperswithcode.com/sota/medical-image-segmentation-on-synapse-multi)
 - [ ] [paperwithcode -  UNETR: Transformers for 3D Medical Image Segmentation ](https://paperswithcode.com/paper/unetr-transformers-for-3d-medical-image)
+	- [ ] [arxiv - UNETR: Transformers for 3D Medical Image Segmentation](https://arxiv.org/pdf/2103.10504.pdf)
 - [ ] [paperwithcode - TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation](https://paperswithcode.com/paper/transunet-transformers-make-strong-encoders#code)
+	- [ ] [arxiv - TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation](https://arxiv.org/pdf/2102.04306.pdf)
 - [ ] [paperwithcode - Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers ](https://paperswithcode.com/paper/rethinking-semantic-segmentation-from-a#code)
 - [ ] [paperwithcode -  Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation ](https://paperswithcode.com/paper/swin-unet-unet-like-pure-transformer-for#code)
+	- [ ] [arxiv - Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation](https://arxiv.org/pdf/2105.05537.pdf)
 - [ ] [paperwithcode - Medical Image Segmentation on Automatic Cardiac Diagnosis Challenge (ACDC)](https://paperswithcode.com/sota/medical-image-segmentation-on-automatic)
 - [ ] [youtube - TransUNet: Transformers make strong encoders for Medical image segmentation - (GOOD)](https://www.youtube.com/watch?v=jKBJITQ8xJY)
+	- [ ] [arxiv - TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation](https://arxiv.org/pdf/2102.04306.pdf)
 - [ ] [youtube - An Image Is Worth 16x16 Words - Paper Explained - (GOOD)](https://www.youtube.com/watch?v=G7i330EJAfU)
 - [ ] [youtube - An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale (Paper Explained)](https://www.youtube.com/watch?v=TrdevFK_am4)
 - [ ] [youtube - Attention Is All You Need - Paper Explained - (GOOD)](https://www.youtube.com/watch?v=XowwKOAWYoQ)
@@ -117,10 +156,20 @@
 - [ ] [kaggle - Vision Transformer (ViT): Tutorial + Baseline](https://www.kaggle.com/abhinand05/vision-transformer-vit-tutorial-baseline)
 - [ ] [kaggle - (CNN or Transformer)Pytorch XLA(TPU) for Cassava](https://www.kaggle.com/piantic/cnn-or-transformer-pytorch-xla-tpu-for-cassava)
 - [ ] [kaggle - Vision Transformer + Nyströmformer + TTA](https://www.kaggle.com/ligtfeather/vision-transformer-nystr-mformer-tta)
+- [ ] [youtube - Segmentation of Brain Tumors from MRI using Deep Learning](https://www.youtube.com/watch?v=PcNqAVNCZrE)
+- [ ] [youtube - Applications: Cardiac MRI - Segmentation & Diagnosis](https://www.youtube.com/watch?v=7ZvBCJKNwX4)
+- [ ] [youtube - Semantic Segmentation](https://www.youtube.com/watch?v=_N7HRnBgoCw)
+- [ ] [youtube - Deep Learning(CS7015): Lec 15.4 Attention over images](https://www.youtube.com/watch?v=hvhqHhrP_AU)
+- [ ] [site - awesomeopensource - Awesome Visual Transformer - all papers - (GOOD)](https://awesomeopensource.com/project/dk-liang/Awesome-Visual-Transformer)
 - [ ] 
 
 
+
+
+
+
 ## Github Repositories
+
 - [ ] [Awesome Machine Learning in Biomedical(Healthcare) Imaging](https://github.com/XindiWu/Awesome-Machine-Learning-in-Biomedical-Healthcare-Imaging)
 - [ ] [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
 - [ ] [U-net-for-Multi-class-semantic-segmentation](https://github.com/sohiniroych/U-net-for-Multi-class-semantic-segmentation)
@@ -129,28 +178,41 @@
 	- [ ] [nnU-Net : The no-new-Net for Automatic Segmentation](https://www.youtube.com/watch?v=t6uFmH-mmF8)
 - [ ] [Implementation of deep learning framework -- Unet, using Keras](https://github.com/zhixuhao/unet)
 - [ ] [TransUNet](https://github.com/Beckschen/TransUNet)
+- [ ] [TransUnet](https://github.com/KenzaB27/TransUnet)
 - [ ] [Transfer Learning U-Net Deep Learning for Lung Ultrasound Segmentation](https://github.com/dorltcheng/Transfer-Learning-U-Net-Deep-Learning-for-Lung-Ultrasound-Segmentation)
 - [ ] [pytorch-UNet](https://github.com/cosmic-cortex/pytorch-UNet)
 - [ ] [Axial-DeepLab (ECCV 2020, Spotlight)](https://github.com/csrhddlam/axial-deeplab)
+- [ ] [TransBTS: Multimodal Brain Tumor Segmentation Using Transformer（MICCAI2021）](https://github.com/Wenxuan-1119/TransBTS)
 - [ ] 
 
 
+
+
 ## Another courses
+
 - [ ] [youtube - PyTorch Tutorials](https://www.youtube.com/playlist?list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz)
 - [ ] 
 
 
+
+
+
 ## People
-- [ ] [Aladdin Persson](https://www.youtube.com/c/AladdinPersson/playlists)
-- [ ] [Sohini Roychowdhury](https://github.com/sohiniroych)
-- [ ] [Maryam Asadi](https://scholar.google.com/citations?user=8UqpIK8AAAAJ&hl=en)
-- [ ] [Jason J. Corso](http://web.eecs.umich.edu/~jjcorso/)
-- [ ] 
+
+- [Aladdin Persson](https://www.youtube.com/c/AladdinPersson/playlists)
+- [Sohini Roychowdhury](https://github.com/sohiniroych)
+- [Maryam Asadi](https://scholar.google.com/citations?user=8UqpIK8AAAAJ&hl=en)
+- [Jason J. Corso](http://web.eecs.umich.edu/~jjcorso/)
+-  
+
+
+
 
 
 
 
 ## Others
+
 - [ ] [youtube - How to Create a Successful Github Repo for Tech Jobs: Example of U-net for Image segmentation on TF2](https://www.youtube.com/watch?v=hK-RHbU3rng)
 - [ ] [doi - Reconstructing faces from fMRI patterns using deep generative neural networks](https://www.nature.com/articles/s42003-019-0438-y.pdf)
 - [ ] [End-to-End Deep Image Reconstruction From Human Brain Activity](https://www.frontiersin.org/articles/10.3389/fncom.2019.00021/full)
@@ -164,4 +226,5 @@
 - [ ] [Information Processing in Medical Imaging (IPMI) 2021](http://ipmi2021.org/)
 - [ ] [hashtag vision_transformer on youtube](https://www.youtube.com/hashtag/vision_transformer)
 - [ ] [monai](https://monai.io/)
+- [ ] [youtube - Self-Attention and Transformers](https://www.youtube.com/watch?v=phOc25QfNS0)
 - [ ] 
