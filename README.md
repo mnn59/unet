@@ -9,7 +9,6 @@
 	](https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D8%AA%D8%AD%D9%84%DB%8C%D9%84-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%D8%AA%D8%B5%D8%A7%D9%88%DB%8C%D8%B1-%D8%B2%DB%8C%D8%B3%D8%AA-%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C-mk1070/)
 	- [ ] [resources in ce.sharif](http://ce.sharif.edu/courses/99-00/1/ce571-1/index.php/section/resources/file/resources)
 	- [ ] [information in docs.ce.sharif](https://docs.ce.sharif.edu/%D8%AF%D8%B1%D8%B3/%DB%B4%DB%B0%DB%B9%DB%B5%DB%B1-%DB%B1)
-- [ ] []()
 
 
 
@@ -93,7 +92,6 @@
 - [ ] [A large annotated medical image dataset for the development and evaluation of segmentation algorithms](https://arxiv.org/pdf/1902.09063.pdf)
 - [ ] [monuseg grand-challenge](https://monuseg.grand-challenge.org/Data/)
 - [ ] [warwick](https://warwick.ac.uk/fac/cross_fac/tia/data/glascontest/download/)
-- [ ] 
 
 
 
@@ -161,7 +159,6 @@
 - [ ] [youtube - Semantic Segmentation](https://www.youtube.com/watch?v=_N7HRnBgoCw)
 - [ ] [youtube - Deep Learning(CS7015): Lec 15.4 Attention over images](https://www.youtube.com/watch?v=hvhqHhrP_AU)
 - [ ] [site - awesomeopensource - Awesome Visual Transformer - all papers - (GOOD)](https://awesomeopensource.com/project/dk-liang/Awesome-Visual-Transformer)
-- [ ] 
 
 
 
@@ -183,7 +180,6 @@
 - [ ] [pytorch-UNet](https://github.com/cosmic-cortex/pytorch-UNet)
 - [ ] [Axial-DeepLab (ECCV 2020, Spotlight)](https://github.com/csrhddlam/axial-deeplab)
 - [ ] [TransBTS: Multimodal Brain Tumor Segmentation Using Transformer（MICCAI2021）](https://github.com/Wenxuan-1119/TransBTS)
-- [ ] 
 
 
 
@@ -191,7 +187,6 @@
 ## Another courses
 
 - [ ] [youtube - PyTorch Tutorials](https://www.youtube.com/playlist?list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz)
-- [ ] 
 
 
 
@@ -203,7 +198,6 @@
 - [Sohini Roychowdhury](https://github.com/sohiniroych)
 - [Maryam Asadi](https://scholar.google.com/citations?user=8UqpIK8AAAAJ&hl=en)
 - [Jason J. Corso](http://web.eecs.umich.edu/~jjcorso/)
--  
 
 
 
@@ -227,4 +221,3 @@
 - [ ] [hashtag vision_transformer on youtube](https://www.youtube.com/hashtag/vision_transformer)
 - [ ] [monai](https://monai.io/)
 - [ ] [youtube - Self-Attention and Transformers](https://www.youtube.com/watch?v=phOc25QfNS0)
-- [ ] 
