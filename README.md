@@ -1,7 +1,7 @@
-# unet
+# Medical Image Segmentation using u-net
+## courses
+- [ ] [coursera - ai for medicine specialization]
+## papers
 
-## Medical Image Segmentation using u-net
 
-### courses
 
-k
