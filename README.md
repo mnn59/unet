@@ -221,4 +221,3 @@
 - [ ] [monai](https://monai.io/)
 - [ ] [youtube - Self-Attention and Transformers](https://www.youtube.com/watch?v=phOc25QfNS0)
 - [ ] [arxiv - Bottleneck Transformers for Visual Recognition](https://arxiv.org/pdf/2101.11605.pdf)
-- [ ] 
