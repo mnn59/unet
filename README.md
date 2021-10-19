@@ -16,13 +16,17 @@
 ## Papers
 - [ ] [arxiv - U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/pdf/1505.04597.pdf)
 	- [ ] [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://link.springer.com/content/pdf/10.1007/978-3-319-24574-4_28.pdf)
-- [X] [mdpi - A Review of Deep-Learning-Based Medical Image Segmentation Methods](https://www.mdpi.com/2071-1050/13/3/1224/pdf)
+- [X] [mdpi - A Review of Deep-Learning-Based Medical Image Segmentation Methods - Dr.Mazlaghani](https://www.mdpi.com/2071-1050/13/3/1224/pdf)
 - [ ] [springer - Deep convolutional neural network based medical image classification for disease diagnosis](https://link.springer.com/content/pdf/10.1186/s40537-019-0276-2.pdf)
 - [ ] [arxiv - U-Net and its variants for medical image segmentation: theory and applications - (GOOD)](https://arxiv.org/ftp/arxiv/papers/2011/2011.01118.pdf)
 - [ ] [iopscience - Accuracy Improvement of UNet Based on Dilated Convolution](https://iopscience.iop.org/article/10.1088/1742-6596/1345/5/052066/pdf)
 - [ ] [openaccess - Deep Frequency Re-calibration U-Net for Medical Image Segmentation - by maryam asadi](https://openaccess.thecvf.com/content/ICCV2021W/CVAMD/papers/Azad_Deep_Frequency_Re-Calibration_U-Net_for_Medical_Image_Segmentation_ICCVW_2021_paper.pdf)
 - [ ] [Attention U-Net: Learning Where to Look for the Pancreas](https://arxiv.org/pdf/1804.03999.pdf%E4%BB%A3%E7%A0%81%E5%9C%B0%E5%9D%80%EF%BC%9Ahttps://github.com/ozan-oktay/Attention-Gated-Networks)
 - [ ] [Combining 3D U-Net and bottom-up geometric constraintsfor automatic cortical sulci recognition - open without vpn](https://openreview.net/pdf?id=ryl0VTZCtV)
+- [ ] [arxiv - AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE - (GOOD)](https://arxiv.org/pdf/2010.11929.pdf)
+- [ ] [arxiv - Medical Transformer: Gated Axial-Attention for Medical Image Segmentation](https://arxiv.org/pdf/2102.10662.pdf)
+	- [ ] [github - (Medical-Transformer)](https://github.com/jeya-maria-jose/Medical-Transformer)
+- [ ] [doi - Deep Learning Single-Frame and Multiframe Super- Resolution for Cardiac MRI](https://pubs.rsna.org/doi/pdf/10.1148/radiol.2020192173)
 - [ ] 
 
 
@@ -54,6 +58,8 @@
 - [ ] [covid chestxray dataset](https://github.com/ieee8023/covid-chestxray-dataset)
 - [ ] [Finding and Measuring Lungs in CT Data](https://www.kaggle.com/kmader/finding-lungs-in-ct-data)
 - [ ] [A large annotated medical image dataset for the development and evaluation of segmentation algorithms](https://arxiv.org/pdf/1902.09063.pdf)
+- [ ] [monuseg grand-challenge](https://monuseg.grand-challenge.org/Data/)
+- [ ] [warwick](https://warwick.ac.uk/fac/cross_fac/tia/data/glascontest/download/)
 - [ ] 
 
 
@@ -93,6 +99,24 @@
 - [ ] [Automatic Segmentation of Interacting Cells](https://www.youtube.com/watch?v=FEnbZS6IFks)
 - [ ] [ (GOOD)فیلاگر|جلسه هفدهم|  تشخیص بیماری های مغزی از طریق پردازش تصویر](https://filoger.com/%da%a9%d8%af%d9%86%d9%88%db%8c%d8%b3%db%8c-%d9%87%d9%88%d8%b4-%d9%85%d8%b5%d9%86%d9%88%d8%b9%db%8c-%d8%a8%d8%a7-%d9%81%db%8c%d9%84%d8%a7%da%af%d8%b1/)
 - [ ] [UNet — Line by Line Explanation - (GOOD) - (WITH CODE)](https://towardsdatascience.com/unet-line-by-line-explanation-9b191c76baf5)
+- [ ] [paperwithcode - Medical Image Segmentation ](https://paperswithcode.com/task/medical-image-segmentation/latest)
+- [ ] [paperwithcode - Medical Image Segmentation on Synapse multi-organ CT](https://paperswithcode.com/sota/medical-image-segmentation-on-synapse-multi)
+- [ ] [paperwithcode -  UNETR: Transformers for 3D Medical Image Segmentation ](https://paperswithcode.com/paper/unetr-transformers-for-3d-medical-image)
+- [ ] [paperwithcode - TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation](https://paperswithcode.com/paper/transunet-transformers-make-strong-encoders#code)
+- [ ] [paperwithcode - Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers ](https://paperswithcode.com/paper/rethinking-semantic-segmentation-from-a#code)
+- [ ] [paperwithcode -  Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation ](https://paperswithcode.com/paper/swin-unet-unet-like-pure-transformer-for#code)
+- [ ] [paperwithcode - Medical Image Segmentation on Automatic Cardiac Diagnosis Challenge (ACDC)](https://paperswithcode.com/sota/medical-image-segmentation-on-automatic)
+- [ ] [youtube - TransUNet: Transformers make strong encoders for Medical image segmentation - (GOOD)](https://www.youtube.com/watch?v=jKBJITQ8xJY)
+- [ ] [youtube - An Image Is Worth 16x16 Words - Paper Explained - (GOOD)](https://www.youtube.com/watch?v=G7i330EJAfU)
+- [ ] [youtube - An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale (Paper Explained)](https://www.youtube.com/watch?v=TrdevFK_am4)
+- [ ] [youtube - Attention Is All You Need - Paper Explained - (GOOD)](https://www.youtube.com/watch?v=XowwKOAWYoQ)
+- [ ] [youtube - Big Transfer (BiT): General Visual Representation Learning (Paper Explained)](https://www.youtube.com/watch?v=k1GOF2jmX7c)
+- [ ] [youtube - Axial-DeepLab: Stand-Alone Axial-Attention for Panoptic Segmentation (Paper Explained)](https://www.youtube.com/watch?v=hv3UO3G0Ofo)
+- [ ] [huggingface - Vision Transformer (ViT)](https://huggingface.co/transformers/model_doc/vit.html)
+- [ ] [kaggle - transunet](https://www.kaggle.com/yinghuitan/transunet)
+- [ ] [kaggle - Vision Transformer (ViT): Tutorial + Baseline](https://www.kaggle.com/abhinand05/vision-transformer-vit-tutorial-baseline)
+- [ ] [kaggle - (CNN or Transformer)Pytorch XLA(TPU) for Cassava](https://www.kaggle.com/piantic/cnn-or-transformer-pytorch-xla-tpu-for-cassava)
+- [ ] [kaggle - Vision Transformer + Nyströmformer + TTA](https://www.kaggle.com/ligtfeather/vision-transformer-nystr-mformer-tta)
 - [ ] 
 
 
@@ -104,7 +128,12 @@
 - [ ] [nnU-Net](https://github.com/prateekgupta891/nnUNet)
 	- [ ] [nnU-Net : The no-new-Net for Automatic Segmentation](https://www.youtube.com/watch?v=t6uFmH-mmF8)
 - [ ] [Implementation of deep learning framework -- Unet, using Keras](https://github.com/zhixuhao/unet)
+- [ ] [TransUNet](https://github.com/Beckschen/TransUNet)
+- [ ] [Transfer Learning U-Net Deep Learning for Lung Ultrasound Segmentation](https://github.com/dorltcheng/Transfer-Learning-U-Net-Deep-Learning-for-Lung-Ultrasound-Segmentation)
+- [ ] [pytorch-UNet](https://github.com/cosmic-cortex/pytorch-UNet)
+- [ ] [Axial-DeepLab (ECCV 2020, Spotlight)](https://github.com/csrhddlam/axial-deeplab)
 - [ ] 
+
 
 ## Another courses
 - [ ] [youtube - PyTorch Tutorials](https://www.youtube.com/playlist?list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz)
@@ -133,5 +162,6 @@
 - [ ] [3 Steps Are All You Need to Achieve SOTA in MICCAI 2020 Thyroid Nodule Segmentation Challenge](https://miccai-sb.github.io/materials/mec2020/2020_MaJ.pdf)
 	- [ ] [Loss Functions for Medical Image Segmentation: A Taxonomy](https://miccai-sb.github.io/materials/Ma2019.pdf)
 - [ ] [Information Processing in Medical Imaging (IPMI) 2021](http://ipmi2021.org/)
-- [ ] [paperwithcode - Medical Image Segmentation ](https://paperswithcode.com/task/medical-image-segmentation/latest)
+- [ ] [hashtag vision_transformer on youtube](https://www.youtube.com/hashtag/vision_transformer)
+- [ ] [monai](https://monai.io/)
 - [ ] 
