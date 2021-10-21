@@ -4,6 +4,7 @@
 - [ ] [youtube - U-net for image segmentation](https://www.youtube.com/playlist?list=PLZsOBAyNTZwbR08R959iCvYT3qzhxvGOE)
 - [ ] [youtube - Introductory python tutorials for image processing - (GOOD)](https://www.youtube.com/playlist?list=PLHae9ggVvqPgyRQQOtENr6hK0m1UquGaG)
 - [ ] [youtube - Image processing with python - (GOOD)](https://www.youtube.com/playlist?list=PLZsOBAyNTZwYx-7GylDo3LSYpSompzsqW)
+	- [ ] [youtube - attention u-net](https://www.youtube.com/watch?v=L5iV5BHkMzM&list=PLZsOBAyNTZwYx-7GylDo3LSYpSompzsqW&index=81)
 - [ ] [maktabkhooneh - 
 	آموزش رایگان تحلیل هوشمند تصاویر زیست‌پزشکی
 	](https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D8%AA%D8%AD%D9%84%DB%8C%D9%84-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%D8%AA%D8%B5%D8%A7%D9%88%DB%8C%D8%B1-%D8%B2%DB%8C%D8%B3%D8%AA-%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C-mk1070/)
