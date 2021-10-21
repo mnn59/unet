@@ -116,7 +116,7 @@
 - [ ] [youtube - Medical Imaging Tutorial 2020 - Ch2 - Histology and Segmentation](https://www.youtube.com/watch?v=8h6oSqPrjzc&list=PLheiZMDg_8ufxEx9cNVcOYXsT3BppJP4b&index=3)
 - [ ] [youtube - Medical Image Segmentation using UNET - (WITH CODE)](https://www.youtube.com/watch?v=mNsrFkEbCHg&t=375s)
 - [ ] [sciencedirect - Medical Image Segmentation topics](https://www.sciencedirect.com/topics/engineering/medical-image-segmentation)
-- [ ] [youtube - U-NET Paper Walkthrough - arxiv - U-Net: Convolutional Networks for Biomedical Image Segmentation - (GOOD)](https://www.youtube.com/watch?v=oLvmLJkmXuc)
+- [X] [youtube - U-NET Paper Walkthrough - arxiv - U-Net: Convolutional Networks for Biomedical Image Segmentation - (GOOD)](https://www.youtube.com/watch?v=oLvmLJkmXuc)
 - [ ] [youtube - Probabilistic U-Net for Segmentation of Ambiguous Images](https://www.youtube.com/watch?v=oe-yxJECTZU)
 - [ ] [youtube - PyTorch Image Segmentation Tutorial with U-NET: everything from scratch baby](https://www.youtube.com/watch?v=IHq1t7NxS8k&list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz&index=43)
 - [ ] [site - The Beginner’s Guide to Semantic Segmentation](https://www.v7labs.com/blog/semantic-segmentation-guide)
