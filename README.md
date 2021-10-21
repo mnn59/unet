@@ -91,6 +91,7 @@
 - [ ] [A large annotated medical image dataset for the development and evaluation of segmentation algorithms](https://arxiv.org/pdf/1902.09063.pdf)
 - [ ] [monuseg grand-challenge](https://monuseg.grand-challenge.org/Data/)
 - [ ] [warwick](https://warwick.ac.uk/fac/cross_fac/tia/data/glascontest/download/)
+- [ ] [Electron Microscopy Dataset - but also it is not medical image](https://www.epfl.ch/labs/cvlab/data/data-em/)
 
 
 
