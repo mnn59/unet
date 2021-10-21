@@ -92,6 +92,9 @@
 - [ ] [monuseg grand-challenge](https://monuseg.grand-challenge.org/Data/)
 - [ ] [warwick](https://warwick.ac.uk/fac/cross_fac/tia/data/glascontest/download/)
 - [ ] [Electron Microscopy Dataset - but also it is not medical image](https://www.epfl.ch/labs/cvlab/data/data-em/)
+- [ ] [CT Heart Dataset](https://www.kaggle.com/dataset/f41e0bab640002775b00e050b81a1144786324951b0576f5d71fd820d6ef13dc)
+- [ ] [Montgomery County X-ray Set](https://academictorrents.com/details/ac786f74878a5775c81d490b23842fd4736bfe33)
+- [ ] [National Library of Medicine - (GOOD)](https://lhncbc.nlm.nih.gov/LHC-downloads/downloads.html#tuberculosis-image-data-sets)
 
 
 
@@ -99,6 +102,7 @@
 
 
 ## Sites & Tutorials
+
 - [ ] [nilearn - Plotting brain images](https://nilearn.github.io/plotting/index.html#plotting-brain-images)
 - [ ] [kaggle - NeuroImaging: In Depth Understanding,EDA,Model](https://www.kaggle.com/saife245/neuroimaging-in-depth-understanding-eda-model)
 - [ ] [kaggle - TReNDS - EDA + Visualization + Simple Baseline](https://www.kaggle.com/rohitsingh9990/trends-eda-visualization-simple-baseline)
@@ -161,6 +165,13 @@
 - [ ] [youtube - Deep Learning(CS7015): Lec 15.4 Attention over images](https://www.youtube.com/watch?v=hvhqHhrP_AU)
 - [ ] [site - awesomeopensource - Awesome Visual Transformer - all papers - (GOOD)](https://awesomeopensource.com/project/dk-liang/Awesome-Visual-Transformer)
 - [ ] [kaggle - BrainTumor(EDA)](https://www.kaggle.com/saurava/braintumor-eda)
+- [ ] [youtube - UNET Segmentation on CT Scan Images using TensorFlow 2.0 | Image Segmentation | Deep Learning - (GOOD)](https://www.youtube.com/watch?v=xIvmg4IqeIk)
+- [ ] [youtube - UNET Architecture in TensorFlow 2.0 (Keras) | UNET Segmentation | Semantic Segmentation](https://www.youtube.com/watch?v=NKOOA_xxCKE)
+- [ ] [youtube - UNET Implementation in PyTorch | Semantic Segmentation](https://www.youtube.com/watch?v=67r38S7Y-mA)
+- [ ] [youtube - Cell Nuclei Segmentation using UNET in TensorFlow 2.0 | Semantic Segmentation | Deep Learning - (GOOD)](https://www.youtube.com/watch?v=fiTgEi8WnFc)
+- [ ] [youtube - Lung Segmentation using UNET in TensorFlow 2.0 | Chest X-Ray Segmentation - (GOOD)](https://www.youtube.com/watch?v=LkmgdNpcgTM)
+- [ ] [youtube - UNET for Retina Blood Vessel Segmentation in PyTorch | Image Segmentation | Deep Learning - (GOOD)](https://www.youtube.com/watch?v=T0BiFBaMLDQ)
+- [ ] 
 
 
 
