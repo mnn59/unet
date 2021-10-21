@@ -172,6 +172,9 @@
 - [ ] [youtube - Cell Nuclei Segmentation using UNET in TensorFlow 2.0 | Semantic Segmentation | Deep Learning - (GOOD)](https://www.youtube.com/watch?v=fiTgEi8WnFc)
 - [ ] [youtube - Lung Segmentation using UNET in TensorFlow 2.0 | Chest X-Ray Segmentation - (GOOD)](https://www.youtube.com/watch?v=LkmgdNpcgTM)
 - [ ] [youtube - UNET for Retina Blood Vessel Segmentation in PyTorch | Image Segmentation | Deep Learning - (GOOD)](https://www.youtube.com/watch?v=T0BiFBaMLDQ)
+- [ ] [site - بخش‌بندی تصویر و هر آنچه که لازم است در این باره بدانید- (GOOD)](https://hooshio.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D9%86%D8%AF%DB%8C-%D8%AA%D8%B5%D9%88%DB%8C%D8%B1/)
+- [ ] [aparat - پیاده سازی مقاله معماری مدل UNet با Keras](https://www.aparat.com/v/kjvwy/)
+	- [ ] [site - پیاده سازی مقاله معماری مدل UNet با Keras](http://dailyarmin.ir/index.php/2020/09/20/keras-unet-implementation/)
 - [ ] 
 
 
