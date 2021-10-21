@@ -97,6 +97,7 @@
 
 
 
+
 ## Sites & Tutorials
 - [ ] [nilearn - Plotting brain images](https://nilearn.github.io/plotting/index.html#plotting-brain-images)
 - [ ] [kaggle - NeuroImaging: In Depth Understanding,EDA,Model](https://www.kaggle.com/saife245/neuroimaging-in-depth-understanding-eda-model)
@@ -159,8 +160,18 @@
 - [ ] [youtube - Semantic Segmentation](https://www.youtube.com/watch?v=_N7HRnBgoCw)
 - [ ] [youtube - Deep Learning(CS7015): Lec 15.4 Attention over images](https://www.youtube.com/watch?v=hvhqHhrP_AU)
 - [ ] [site - awesomeopensource - Awesome Visual Transformer - all papers - (GOOD)](https://awesomeopensource.com/project/dk-liang/Awesome-Visual-Transformer)
+- [ ] [kaggle - BrainTumor(EDA)](https://www.kaggle.com/saurava/braintumor-eda)
 
 
+
+
+
+## Challenges
+- [ ] [cellstrathub - Build. Train. Deploy.](https://cellstrathub.com/)
+- [tfserve]
+	- [ ] [site - Introducing TFServe: Simple and easy HTTP server for tensorflow model inference](https://towardsdatascience.com/introducing-tfserve-simple-and-easy-http-server-for-tensorflow-model-inference-582ea1b07da8)
+- [torchserve]
+	- [ ] [youtube - How to Serve PyTorch Models with TorchServe](https://www.youtube.com/watch?v=XlO7iQMV3Ik)
 
 
 
