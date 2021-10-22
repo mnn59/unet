@@ -110,7 +110,7 @@
 - [ ] [kaggle - Fundamentals of Medical Image Processing](https://www.kaggle.com/writetoneeraj/fundamentals-of-medical-image-processing)
 	- [ ] [youtube - video of explaining this kernel](https://www.youtube.com/watch?v=qEq9Cy_Yn_c) 
 - [ ] [youtube - 2-Minute Neuroscience: Neuroimaging]()[https://www.youtube.com/watch?app=desktop&v=N2apCx1rlIQ]
-- [ ] [youtube - Paper Review Calls 011 -- U-Net: Convolutional Networks for Biomedical Image Segmentation - (GOOD)](https://www.youtube.com/watch?app=desktop&v=E1Y8HZcpm-I)
+- [X] [youtube - Paper Review Calls 011 -- U-Net: Convolutional Networks for Biomedical Image Segmentation - (GOOD)](https://www.youtube.com/watch?app=desktop&v=E1Y8HZcpm-I)
 	- [ ] [arxiv - U-Net: Convolutional Networks for Biomedical
 	Image Segmentation](https://arxiv.org/pdf/1505.04597.pdf)
 	- [ ] [github](https://github.com/karolzak/keras-unet)
