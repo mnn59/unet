@@ -2,14 +2,17 @@
 ## Courses
 - [ ] [coursera - ai for medicine specialization - local path - 3 courses]
 - [ ] [youtube - U-net for image segmentation](https://www.youtube.com/playlist?list=PLZsOBAyNTZwbR08R959iCvYT3qzhxvGOE)
-- [ ] [youtube - Introductory python tutorials for image processing - (GOOD)](https://www.youtube.com/playlist?list=PLHae9ggVvqPgyRQQOtENr6hK0m1UquGaG)
+- [ ] [youtube - Introductory python tutorials for image processing - (GOOD) - (WITH CODE)](https://www.youtube.com/playlist?list=PLHae9ggVvqPgyRQQOtENr6hK0m1UquGaG)
 - [ ] [youtube - Image processing with python - (GOOD)](https://www.youtube.com/playlist?list=PLZsOBAyNTZwYx-7GylDo3LSYpSompzsqW)
 	- [ ] [youtube - attention u-net](https://www.youtube.com/watch?v=L5iV5BHkMzM&list=PLZsOBAyNTZwYx-7GylDo3LSYpSompzsqW&index=81)
+	- [ ] [youtube - about unet](https://www.youtube.com/watch?v=dIRbGz2Rn3w&list=PLHae9ggVvqPgyRQQOtENr6hK0m1UquGaG&index=119)
+	- [ ] [github](https://github.com/bnsreenu/python_for_image_processing_APEER)
 - [ ] [maktabkhooneh - 
 	آموزش رایگان تحلیل هوشمند تصاویر زیست‌پزشکی
 	](https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D8%AA%D8%AD%D9%84%DB%8C%D9%84-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%D8%AA%D8%B5%D8%A7%D9%88%DB%8C%D8%B1-%D8%B2%DB%8C%D8%B3%D8%AA-%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C-mk1070/)
 	- [ ] [resources in ce.sharif](http://ce.sharif.edu/courses/99-00/1/ce571-1/index.php/section/resources/file/resources)
 	- [ ] [information in docs.ce.sharif](https://docs.ce.sharif.edu/%D8%AF%D8%B1%D8%B3/%DB%B4%DB%B0%DB%B9%DB%B5%DB%B1-%DB%B1)
+- [ ] [youtube - Computer Vision Foundations Class (Summer 2020)](https://www.youtube.com/playlist?list=PLuRaSnb3n4kRAbnmiyGd77hyoGzO9wPde)
 
 
 
@@ -56,6 +59,8 @@
 - [ ] [arxiv - Segmenter: Transformer for Semantic Segmentation](https://arxiv.org/pdf/2105.05633.pdf)
 - [ ] [arxiv - Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers](https://arxiv.org/pdf/2012.15840.pdf)
 - [ ] [arxiv- Weaving Attention U-net: A Novel Hybrid CNN and Attention-based Method for Organs-at-risk Segmentation in Head and Neck CT Images ](https://arxiv.org/ftp/arxiv/papers/2107/2107.04847.pdf)
+- [ ] [arxiv- Accurate Retinal Vessel Segmentation via Octave Convolution Neural Network](https://arxiv.org/pdf/1906.12193.pdf)
+	- [ ] [github implementation](https://github.com/pykeras/OctConv-Keras/blob/master/UNet_OctConv_keras.ipynb)
 
 
 
@@ -104,6 +109,7 @@
 
 ## Sites & Tutorials
 
+- [ ] [youtube - 5 Minute Teaser Presentation of the U-net: Convolutional Networks for Biomedical Image Segmentation](https://www.youtube.com/watch?v=81AvQQnpG4Q)
 - [ ] [nilearn - Plotting brain images](https://nilearn.github.io/plotting/index.html#plotting-brain-images)
 - [ ] [kaggle - NeuroImaging: In Depth Understanding,EDA,Model](https://www.kaggle.com/saife245/neuroimaging-in-depth-understanding-eda-model)
 - [ ] [kaggle - TReNDS - EDA + Visualization + Simple Baseline](https://www.kaggle.com/rohitsingh9990/trends-eda-visualization-simple-baseline)
@@ -175,7 +181,8 @@
 - [ ] [site - بخش‌بندی تصویر و هر آنچه که لازم است در این باره بدانید- (GOOD)](https://hooshio.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D9%86%D8%AF%DB%8C-%D8%AA%D8%B5%D9%88%DB%8C%D8%B1/)
 - [ ] [aparat - پیاده سازی مقاله معماری مدل UNet با Keras](https://www.aparat.com/v/kjvwy/)
 	- [ ] [site - پیاده سازی مقاله معماری مدل UNet با Keras](http://dailyarmin.ir/index.php/2020/09/20/keras-unet-implementation/)
-- [ ] 
+- [ ] [youtube - Lecture 4.3: U-net architecture | Semantic Segmentation | CVF20](https://www.youtube.com/watch?v=yG6GbEtGUrU)
+- [ ] [youtube - U-Net Convolutional Neural Networks for Image Segmentation: Application to SEM Images of Graphene](https://www.youtube.com/watch?v=yS8K-l7Xk5A)
 
 
 
@@ -187,6 +194,8 @@
 	- [ ] [site - Introducing TFServe: Simple and easy HTTP server for tensorflow model inference](https://towardsdatascience.com/introducing-tfserve-simple-and-easy-http-server-for-tensorflow-model-inference-582ea1b07da8)
 - [torchserve]
 	- [ ] [youtube - How to Serve PyTorch Models with TorchServe](https://www.youtube.com/watch?v=XlO7iQMV3Ik)
+- [ ] [site - differences between compile, fit, predict](https://datascience.stackexchange.com/questions/46124/what-do-compile-fit-and-predict-do-in-keras-sequential-models)
+ 
 
 
 
@@ -206,6 +215,9 @@
 - [ ] [pytorch-UNet](https://github.com/cosmic-cortex/pytorch-UNet)
 - [ ] [Axial-DeepLab (ECCV 2020, Spotlight)](https://github.com/csrhddlam/axial-deeplab)
 - [ ] [TransBTS: Multimodal Brain Tumor Segmentation Using Transformer（MICCAI2021）](https://github.com/Wenxuan-1119/TransBTS)
+- [ ] [karolzak - Helper package with multiple U-Net implementations in Keras](https://github.com/karolzak/keras-unet#Vanilla-U-Net)
+- [ ] [Convolution arithmetic](https://github.com/vdumoulin/conv_arithmetic)
+- [ ] [github implementation](https://github.com/pykeras/OctConv-Keras/blob/master/UNet_OctConv_keras.ipynb)
 
 
 
