@@ -1,6 +1,6 @@
 # Medical Image Segmentation using u-net
 ## Courses
-- [ ] [coursera - ai for medicine specialization - local path - 3 courses]
+- [ ] [coursera - ai for medicine specialization - local path - 3 courses] 
 - [ ] [youtube - U-net for image segmentation](https://www.youtube.com/playlist?list=PLZsOBAyNTZwbR08R959iCvYT3qzhxvGOE)
 - [ ] [youtube - Introductory python tutorials for image processing - (GOOD) - (WITH CODE)](https://www.youtube.com/playlist?list=PLHae9ggVvqPgyRQQOtENr6hK0m1UquGaG)
 - [ ] [youtube - Image processing with python - (GOOD)](https://www.youtube.com/playlist?list=PLZsOBAyNTZwYx-7GylDo3LSYpSompzsqW)
@@ -195,7 +195,7 @@
 - [torchserve]
 	- [ ] [youtube - How to Serve PyTorch Models with TorchServe](https://www.youtube.com/watch?v=XlO7iQMV3Ik)
 - [ ] [site - differences between compile, fit, predict](https://datascience.stackexchange.com/questions/46124/what-do-compile-fit-and-predict-do-in-keras-sequential-models)
- 
+
 
 
 
