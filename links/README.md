@@ -195,6 +195,11 @@
 - [torchserve]
 	- [ ] [youtube - How to Serve PyTorch Models with TorchServe](https://www.youtube.com/watch?v=XlO7iQMV3Ik)
 - [ ] [site - differences between compile, fit, predict](https://datascience.stackexchange.com/questions/46124/what-do-compile-fit-and-predict-do-in-keras-sequential-models)
+- [ ] [image segmentation](https://thecleverprogrammer.com/2020/07/22/image-segmentation/)
+- [ ] [Image Segmentation with Python](https://thecleverprogrammer.com/2020/09/01/image-segmentation-with-python/)
+- [ ] [Lung Segmentation with Machine Learning](https://thecleverprogrammer.com/2020/09/06/lung-segmentation-with-machine-learning/)
+- [ ] [Customer Segmentation](https://thecleverprogrammer.com/2020/07/12/customer-segmentation/)
+- [ ] 
 
 
 
