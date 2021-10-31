@@ -62,7 +62,7 @@
 - [ ] [arxiv- Accurate Retinal Vessel Segmentation via Octave Convolution Neural Network](https://arxiv.org/pdf/1906.12193.pdf)
 	- [ ] [github implementation](https://github.com/pykeras/OctConv-Keras/blob/master/UNet_OctConv_keras.ipynb)
 
-
+- [ ] [arxiv - SmaAt-UNet: Precipitation Nowcasting using a Small Attention-UNet Architecture](https://arxiv.org/pdf/2007.04417.pdf)
 
 
 
