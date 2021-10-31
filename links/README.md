@@ -183,6 +183,9 @@
 	- [ ] [site - پیاده سازی مقاله معماری مدل UNet با Keras](http://dailyarmin.ir/index.php/2020/09/20/keras-unet-implementation/)
 - [ ] [youtube - Lecture 4.3: U-net architecture | Semantic Segmentation | CVF20](https://www.youtube.com/watch?v=yG6GbEtGUrU)
 - [ ] [youtube - U-Net Convolutional Neural Networks for Image Segmentation: Application to SEM Images of Graphene](https://www.youtube.com/watch?v=yS8K-l7Xk5A)
+- [ ] [site - biomedical-image-segmentation-u-net-nested - (GOOD) - (WITH CODE)](https://jinglescode.github.io/2019/12/02/biomedical-image-segmentation-u-net-nested/)
+- [ ] [site - biomedical-image-segmentation-u-net-attention - (GOOD) - (WITH CODE)](https://jinglescode.github.io/2019/12/08/biomedical-image-segmentation-u-net-attention/)
+- [ ] [site - biomedical-image-segmentation-u-net - (GOOD) - (WITH CODE)](https://jinglescode.github.io/2019/11/07/biomedical-image-segmentation-u-net/)
 
 
 
