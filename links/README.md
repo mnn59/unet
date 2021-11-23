@@ -21,14 +21,14 @@
 
 ## Papers
 
-- [ ] [arxiv - U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/pdf/1505.04597.pdf)
-	- [ ] [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://link.springer.com/content/pdf/10.1007/978-3-319-24574-4_28.pdf)
+- [X] [arxiv - U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/pdf/1505.04597.pdf)
+	- [X] [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://link.springer.com/content/pdf/10.1007/978-3-319-24574-4_28.pdf)
 - [X] [mdpi - A Review of Deep-Learning-Based Medical Image Segmentation Methods - Dr.Mazlaghani](https://www.mdpi.com/2071-1050/13/3/1224/pdf)
-- [ ] [springer - Deep convolutional neural network based medical image classification for disease diagnosis](https://link.springer.com/content/pdf/10.1186/s40537-019-0276-2.pdf)
-- [ ] [arxiv - U-Net and its variants for medical image segmentation: theory and applications - (GOOD)](https://arxiv.org/ftp/arxiv/papers/2011/2011.01118.pdf)
+- [X] [springer - Deep convolutional neural network based medical image classification for disease diagnosis](https://link.springer.com/content/pdf/10.1186/s40537-019-0276-2.pdf)
+- [X] [arxiv - U-Net and its variants for medical image segmentation: theory and applications - (GOOD)](https://arxiv.org/ftp/arxiv/papers/2011/2011.01118.pdf)
 - [ ] [iopscience - Accuracy Improvement of UNet Based on Dilated Convolution](https://iopscience.iop.org/article/10.1088/1742-6596/1345/5/052066/pdf)
 - [ ] [openaccess - Deep Frequency Re-calibration U-Net for Medical Image Segmentation - by maryam asadi](https://openaccess.thecvf.com/content/ICCV2021W/CVAMD/papers/Azad_Deep_Frequency_Re-Calibration_U-Net_for_Medical_Image_Segmentation_ICCVW_2021_paper.pdf)
-- [ ] [Attention U-Net: Learning Where to Look for the Pancreas](https://arxiv.org/pdf/1804.03999.pdf%E4%BB%A3%E7%A0%81%E5%9C%B0%E5%9D%80%EF%BC%9Ahttps://github.com/ozan-oktay/Attention-Gated-Networks)
+- [X] [Attention U-Net: Learning Where to Look for the Pancreas](https://arxiv.org/pdf/1804.03999.pdf%E4%BB%A3%E7%A0%81%E5%9C%B0%E5%9D%80%EF%BC%9Ahttps://github.com/ozan-oktay/Attention-Gated-Networks)
 - [ ] [Combining 3D U-Net and bottom-up geometric constraintsfor automatic cortical sulci recognition - open without vpn](https://openreview.net/pdf?id=ryl0VTZCtV)
 - [ ] [arxiv - AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE - (GOOD)](https://arxiv.org/pdf/2010.11929.pdf)
 - [ ] [arxiv - Medical Transformer: Gated Axial-Attention for Medical Image Segmentation](https://arxiv.org/pdf/2102.10662.pdf)
