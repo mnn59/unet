@@ -158,7 +158,7 @@
 - [ ] [paperwithcode - Medical Image Segmentation on Automatic Cardiac Diagnosis Challenge (ACDC)](https://paperswithcode.com/sota/medical-image-segmentation-on-automatic)
 - [ ] [youtube - TransUNet: Transformers make strong encoders for Medical image segmentation - (GOOD)](https://www.youtube.com/watch?v=jKBJITQ8xJY)
 	- [ ] [arxiv - TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation](https://arxiv.org/pdf/2102.04306.pdf)
-- [ ] [youtube - An Image Is Worth 16x16 Words - Paper Explained - (GOOD)](https://www.youtube.com/watch?v=G7i330EJAfU)
+- [X] [youtube - An Image Is Worth 16x16 Words - Paper Explained - (GOOD)](https://www.youtube.com/watch?v=G7i330EJAfU)
 - [ ] [youtube - An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale (Paper Explained)](https://www.youtube.com/watch?v=TrdevFK_am4)
 - [ ] [youtube - Attention Is All You Need - Paper Explained - (GOOD)](https://www.youtube.com/watch?v=XowwKOAWYoQ)
 - [ ] [youtube - Big Transfer (BiT): General Visual Representation Learning (Paper Explained)](https://www.youtube.com/watch?v=k1GOF2jmX7c)
