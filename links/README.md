@@ -32,7 +32,7 @@
 	- [ ] [github page](https://github.com/rezazad68/BCDU-Net)
 - [X] [Attention U-Net: Learning Where to Look for the Pancreas](https://arxiv.org/pdf/1804.03999.pdf%E4%BB%A3%E7%A0%81%E5%9C%B0%E5%9D%80%EF%BC%9Ahttps://github.com/ozan-oktay/Attention-Gated-Networks)
 - [ ] [Combining 3D U-Net and bottom-up geometric constraintsfor automatic cortical sulci recognition - open without vpn](https://openreview.net/pdf?id=ryl0VTZCtV)
-- [ ] [arxiv - AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE - (GOOD)](https://arxiv.org/pdf/2010.11929.pdf)
+- [X] [arxiv - AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE - (GOOD)](https://arxiv.org/pdf/2010.11929.pdf)
 - [ ] [arxiv - Medical Transformer: Gated Axial-Attention for Medical Image Segmentation](https://arxiv.org/pdf/2102.10662.pdf)
 	- [ ] [arxiv (v1-old) - Medical Transformer: Gated Axial-Attention for Medical Image Segmentation](https://arxiv.org/pdf/2102.10662v1.pdf)
 	- [ ] [github - (Medical-Transformer)](https://github.com/jeya-maria-jose/Medical-Transformer)
