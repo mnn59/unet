@@ -155,6 +155,8 @@
 - [ ] [paperwithcode - Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers ](https://paperswithcode.com/paper/rethinking-semantic-segmentation-from-a#code)
 - [ ] [paperwithcode -  Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation ](https://paperswithcode.com/paper/swin-unet-unet-like-pure-transformer-for#code)
 	- [ ] [arxiv - Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation](https://arxiv.org/pdf/2105.05537.pdf)
+- [ ] [site - theaisummer - swin transformer - transformer & computer vision](https://theaisummer.com/transformers-computer-vision/)
+	- [ ] [arxiv - paper - ](https://arxiv.org/pdf/2103.14030.pdf)
 - [ ] [paperwithcode - Medical Image Segmentation on Automatic Cardiac Diagnosis Challenge (ACDC)](https://paperswithcode.com/sota/medical-image-segmentation-on-automatic)
 - [ ] [youtube - TransUNet: Transformers make strong encoders for Medical image segmentation - (GOOD)](https://www.youtube.com/watch?v=jKBJITQ8xJY)
 	- [ ] [arxiv - TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation](https://arxiv.org/pdf/2102.04306.pdf)
