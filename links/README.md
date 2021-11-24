@@ -34,8 +34,10 @@
 - [ ] [Combining 3D U-Net and bottom-up geometric constraintsfor automatic cortical sulci recognition - open without vpn](https://openreview.net/pdf?id=ryl0VTZCtV)
 - [X] [arxiv - AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE - (GOOD)](https://arxiv.org/pdf/2010.11929.pdf)
 - [ ] [arxiv - Medical Transformer: Gated Axial-Attention for Medical Image Segmentation](https://arxiv.org/pdf/2102.10662.pdf)
+	- [ ] [youtube - Medical Transformer: Gated Axial Image Segmentation](https://www.youtube.com/watch?v=KQQmoTIggng)
 	- [ ] [arxiv (v1-old) - Medical Transformer: Gated Axial-Attention for Medical Image Segmentation](https://arxiv.org/pdf/2102.10662v1.pdf)
 	- [ ] [github - (Medical-Transformer)](https://github.com/jeya-maria-jose/Medical-Transformer)
+	- [ ] [youtube - Medical Transformer](https://www.youtube.com/watch?v=H3BXsZl8w1A)
 - [ ] [doi - Deep Learning Single-Frame and Multiframe Super- Resolution for Cardiac MRI](https://pubs.rsna.org/doi/pdf/10.1148/radiol.2020192173)
 - [ ] [arxiv - TransFuse: Fusing Transformers and CNNs for Medical Image Segmentation](https://arxiv.org/pdf/2102.08005.pdf)
 - [ ] [arxiv - DS-TransUNet: Dual Swin Transformer U-Net for Medical Image Segmentation](https://arxiv.org/pdf/2106.06716.pdf)
@@ -190,6 +192,9 @@
 - [ ] [site - biomedical-image-segmentation-u-net-nested - (GOOD) - (WITH CODE)](https://jinglescode.github.io/2019/12/02/biomedical-image-segmentation-u-net-nested/)
 - [ ] [site - biomedical-image-segmentation-u-net-attention - (GOOD) - (WITH CODE)](https://jinglescode.github.io/2019/12/08/biomedical-image-segmentation-u-net-attention/)
 - [ ] [site - biomedical-image-segmentation-u-net - (GOOD) - (WITH CODE)](https://jinglescode.github.io/2019/11/07/biomedical-image-segmentation-u-net/)
+- [ ] [youtube - 3D Image Segmentation (CT/MRI) with a 2D UNET - part 1 - (WITH CODE)](https://www.youtube.com/watch?v=NJNvXEYa_gM)
+- [ ] [youtube - 3D Image Segmentation (CT/MRI) with a 2D UNET - part 2 - (WITH CODE)](https://www.youtube.com/watch?v=CogGIdkDA8g)
+- [ ] [youtube - 3D Image Segmentation (CT/MRI) with a 2D UNET - part 3 - (WITH CODE)](https://www.youtube.com/watch?v=NSyEbJ7Phis)
 
 
 
@@ -275,3 +280,5 @@
 - [ ] [arxiv - Bottleneck Transformers for Visual Recognition](https://arxiv.org/pdf/2101.11605.pdf)
 - [ ] [youtube - Axial-DeepLab: Stand-Alone Axial-Attention for Panoptic Segmentation (Paper Explained)](https://www.youtube.com/watch?v=hv3UO3G0Ofo&list=PL1v8zpldgH3pR7LPuidEZK68kS6AaU1y7&index=96)
 	- [ ] [paper](https://arxiv.org/abs/2003.07853)
+- [ ] [youtube - ViTBIS: Vision Transformer for Biomedical Image Segmentation](https://www.youtube.com/watch?v=C2334BGWIHw)
+- [ ] [youtube - Multi-task attention-based semi-supervised learning for medical image segmentation](https://www.youtube.com/watch?v=fRyH2ZE6mn0)
