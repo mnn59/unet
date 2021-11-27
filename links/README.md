@@ -283,3 +283,4 @@
 	- [ ] [paper](https://arxiv.org/abs/2003.07853)
 - [ ] [youtube - ViTBIS: Vision Transformer for Biomedical Image Segmentation](https://www.youtube.com/watch?v=C2334BGWIHw)
 - [ ] [youtube - Multi-task attention-based semi-supervised learning for medical image segmentation](https://www.youtube.com/watch?v=fRyH2ZE6mn0)
+- [ ] [github - stanford-tensorflow-tutorials](https://github.com/chiphuyen/stanford-tensorflow-tutorials)
