@@ -40,7 +40,7 @@
 	- [X] [youtube - Medical Transformer](https://www.youtube.com/watch?v=H3BXsZl8w1A)
 - [ ] [doi - Deep Learning Single-Frame and Multiframe Super- Resolution for Cardiac MRI](https://pubs.rsna.org/doi/pdf/10.1148/radiol.2020192173)
 - [ ] [arxiv - TransFuse: Fusing Transformers and CNNs for Medical Image Segmentation](https://arxiv.org/pdf/2102.08005.pdf)
-- [ ] [arxiv - DS-TransUNet: Dual Swin Transformer U-Net for Medical Image Segmentation](https://arxiv.org/pdf/2106.06716.pdf)
+- [X] [arxiv - DS-TransUNet: Dual Swin Transformer U-Net for Medical Image Segmentation](https://arxiv.org/pdf/2106.06716.pdf)
 - [ ] [arxiv - Multi-Compound Transformer for Accurate Biomedical Image Segmentation](https://arxiv.org/pdf/2106.14385.pdf)
 	- [ ] [github-page](https://github.com/JiYuanFeng/MCTrans) 
 - [ ] [arxiv - SpecTr: Spectral Transformer for HyperspectralPathology Image Segmentation](https://arxiv.org/pdf/2103.03604.pdf)
