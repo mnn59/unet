@@ -44,6 +44,7 @@
 - [X] [arxiv - Multi-Compound Transformer for Accurate Biomedical Image Segmentation](https://arxiv.org/pdf/2106.14385.pdf)
 	- [ ] [github-page](https://github.com/JiYuanFeng/MCTrans) 
 - [ ] [arxiv - SpecTr: Spectral Transformer for HyperspectralPathology Image Segmentation](https://arxiv.org/pdf/2103.03604.pdf)
+	- [ ] [github-page](https://github.com/hfut-xc-yun/SpecTr)
 - [ ] [arxiv - Transformer-Unet: Raw Image Processing with Unet](https://arxiv.org/pdf/2109.08417.pdf)
 - [ ] [UCTransNet: Rethinking the Skip Connections in U-Net from a Channel-wise Perspective with Transformer](https://arxiv.org/pdf/2109.04335.pdf)
 - [ ] [arxiv - TRANSCLAW U-NET: CLAW U-NET WITH TRANSFORMERS FOR MEDICAL IMAGESEGMENTATION](https://arxiv.org/pdf/2107.05188.pdf)
