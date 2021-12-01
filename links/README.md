@@ -76,7 +76,7 @@
 
 - [ ] [arxiv - SmaAt-UNet: Precipitation Nowcasting using a Small Attention-UNet Architecture](https://arxiv.org/pdf/2007.04417.pdf)
 - [ ] [arxiv - Volumetric Attention for 3D Medical Image Segmentation and Detection](https://arxiv.org/pdf/2004.01997.pdf)
-- [ ] [arxiv - Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation](https://arxiv.org/pdf/2105.05537.pdf)
+- [X] [arxiv - Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation](https://arxiv.org/pdf/2105.05537.pdf)
 	- [ ] [github-page](https://github.com/HuCaoFighting/Swin-Unet/tree/4375a8d6fa7d9c38184c5d3194db990a00a3e912)
 - [ ] [arxiv - Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/pdf/2103.14030.pdf)
 
