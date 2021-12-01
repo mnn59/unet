@@ -62,7 +62,7 @@
 - [X] [arxiv - UNETR: Transformers for 3D Medical Image Segmentation](https://arxiv.org/pdf/2103.10504.pdf)
 	- [ ] [github-page](https://github.com/Project-MONAI/research-contributions/tree/master/UNETR/BTCV)
 - [ ] [arxiv - Convolution-Free Medical Image Segmentation using Transformers](https://arxiv.org/pdf/2102.13645.pdf)
-- [ ] [arxiv - TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation](https://arxiv.org/pdf/2102.04306.pdf)
+- [X] [arxiv - TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation](https://arxiv.org/pdf/2102.04306.pdf)
 	- [ ] [github-page](https://github.com/Beckschen/TransUNet)
 - [ ] [arxiv - Pyramid Medical Transformer for Medical Image Segmentation](https://arxiv.org/ftp/arxiv/papers/2104/2104.14702.pdf)
 - [ ] [arxiv - LEVIT-UNET: MAKE FASTER ENCODERS WITH TRANSFORMER FOR MEDICAL IMAGE SEGMENTATION](https://arxiv.org/pdf/2107.08623.pdf)
