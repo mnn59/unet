@@ -59,7 +59,7 @@
 - [X] [arxiv - UTNet: A Hybrid Transformer Architecture for Medical Image Segmentation](https://arxiv.org/pdf/2107.00781.pdf)
 	- [ ] [github-page](https://github.com/yhygao/UTNet)
 - [ ] [arxiv - Medical Image Segmentation Using Squeeze-and-Expansion Transformers](https://arxiv.org/pdf/2105.09511.pdf)
-- [ ] [arxiv - UNETR: Transformers for 3D Medical Image Segmentation](https://arxiv.org/pdf/2103.10504.pdf)
+- [X] [arxiv - UNETR: Transformers for 3D Medical Image Segmentation](https://arxiv.org/pdf/2103.10504.pdf)
 	- [ ] [github-page](https://github.com/Project-MONAI/research-contributions/tree/master/UNETR/BTCV)
 - [ ] [arxiv - Convolution-Free Medical Image Segmentation using Transformers](https://arxiv.org/pdf/2102.13645.pdf)
 - [ ] [arxiv - TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation](https://arxiv.org/pdf/2102.04306.pdf)
