@@ -52,7 +52,7 @@
 - [X] [arxiv - UCTransNet: Rethinking the Skip Connections in U-Net from a Channel-wise Perspective with Transformer](https://arxiv.org/pdf/2109.04335.pdf)
 	- [ ] [github-page](https://github.com/McGregorWwww/UCTransNet)
 - [X] [arxiv - TRANSCLAW U-NET: CLAW U-NET WITH TRANSFORMERS FOR MEDICAL IMAGESEGMENTATION](https://arxiv.org/pdf/2107.05188.pdf)
-- [ ] [arxiv - TransAttUnet: Multi-level Attention-guided U-Netwith Transformer for Medical Image Segmentation](https://arxiv.org/pdf/2107.05274.pdf)
+- [X] [arxiv - TransAttUnet: Multi-level Attention-guided U-Netwith Transformer for Medical Image Segmentation](https://arxiv.org/pdf/2107.05274.pdf)
 - [ ] [arxiv - Medical Transformer: Universal Brain Encoder for 3D MRI Analysis](https://arxiv.org/pdf/2104.13633.pdf)
 - [ ] [arxiv - TransMed: Transformers Advance Multi-modal Medical Image Classification](https://arxiv.org/pdf/2103.05940.pdf)
 - [ ] [arxiv - U-Net Transformer: Self and Cross Attention forMedical Image Segmentation](https://arxiv.org/pdf/2103.06104.pdf)
