@@ -244,6 +244,7 @@
 - [ ] [github implementation](https://github.com/pykeras/OctConv-Keras/blob/master/UNet_OctConv_keras.ipynb)
 - [ ] [U-Net Nuclei masks EDA](https://github.com/Alireza-Akhavan/class.vision/blob/master/U-Net.ipynb)
 - [ ] [github - keras-vision-transformer](https://github.com/yingkaisha/keras-vision-transformer)
+- [ ] [github-Swin-Transformer-TF](https://github.com/rishigami/Swin-Transformer-TF)
 
 
 
