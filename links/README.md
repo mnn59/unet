@@ -67,7 +67,7 @@
 - [ ] [arxiv - Pyramid Medical Transformer for Medical Image Segmentation](https://arxiv.org/ftp/arxiv/papers/2104/2104.14702.pdf)
 - [X] [arxiv - LEVIT-UNET: MAKE FASTER ENCODERS WITH TRANSFORMER FOR MEDICAL IMAGE SEGMENTATION](https://arxiv.org/pdf/2107.08623.pdf)
 - [ ] [arxiv - MISSFormer: An Effective Medical Image Segmentation Transformer](https://arxiv.org/pdf/2109.07162.pdf)
-- [ ] [arxiv - More than Encoder: Introducing Transformer Decoder to Upsample](https://arxiv.org/pdf/2106.10637.pdf)
+- [X] [arxiv - More than Encoder: Introducing Transformer Decoder to Upsample](https://arxiv.org/pdf/2106.10637.pdf)
 - [ ] [arxiv - Segmenter: Transformer for Semantic Segmentation](https://arxiv.org/pdf/2105.05633.pdf)
 - [ ] [arxiv - Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers](https://arxiv.org/pdf/2012.15840.pdf)
 - [ ] [arxiv- Weaving Attention U-net: A Novel Hybrid CNN and Attention-based Method for Organs-at-risk Segmentation in Head and Neck CT Images ](https://arxiv.org/ftp/arxiv/papers/2107/2107.04847.pdf)
