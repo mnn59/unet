@@ -55,7 +55,7 @@
 - [X] [arxiv - TransAttUnet: Multi-level Attention-guided U-Netwith Transformer for Medical Image Segmentation](https://arxiv.org/pdf/2107.05274.pdf)
 - [ ] [arxiv - Medical Transformer: Universal Brain Encoder for 3D MRI Analysis](https://arxiv.org/pdf/2104.13633.pdf)
 - [ ] [arxiv - TransMed: Transformers Advance Multi-modal Medical Image Classification](https://arxiv.org/pdf/2103.05940.pdf)
-- [ ] [arxiv - U-Net Transformer: Self and Cross Attention forMedical Image Segmentation](https://arxiv.org/pdf/2103.06104.pdf)
+- [X] [arxiv - U-Net Transformer: Self and Cross Attention forMedical Image Segmentation](https://arxiv.org/pdf/2103.06104.pdf)
 - [ ] [arxiv - UTNet: A Hybrid Transformer Architecture for Medical Image Segmentation](https://arxiv.org/pdf/2107.00781.pdf)
 	- [ ] [github-page](https://github.com/yhygao/UTNet)
 - [ ] [arxiv - Medical Image Segmentation Using Squeeze-and-Expansion Transformers](https://arxiv.org/pdf/2105.09511.pdf)
