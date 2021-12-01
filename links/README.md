@@ -13,6 +13,9 @@
 	- [ ] [resources in ce.sharif](http://ce.sharif.edu/courses/99-00/1/ce571-1/index.php/section/resources/file/resources)
 	- [ ] [information in docs.ce.sharif](https://docs.ce.sharif.edu/%D8%AF%D8%B1%D8%B3/%DB%B4%DB%B0%DB%B9%DB%B5%DB%B1-%DB%B1)
 - [ ] [youtube - Computer Vision Foundations Class (Summer 2020)](https://www.youtube.com/playlist?list=PLuRaSnb3n4kRAbnmiyGd77hyoGzO9wPde)
+- [ ] [deephoosh site - vision transformer course in persian](https://deephoosh.com/courses/%da%a9%d8%a7%d8%b1%da%af%d8%a7%d9%87-computer-vision/lesson/%da%a9%d8%a7%d8%b1%da%af%d8%a7%d9%87-%d9%88%db%8c%da%98%d9%86-%d8%aa%d8%b1%d9%86%d8%b3%d9%81%d9%88%d8%b1%d9%85%d8%b1-%d9%82%d8%b3%d9%85%d8%aa-%d9%be%d9%86%d8%ac%d9%85-2/)
+	- [ ] [youtube - vision transformer](https://www.youtube.com/watch?v=5OB9-aW_7eg&list=PLxVcaBJvMuALsm0dALTbN5yd-BS2ZXnog)
+	- [ ] [youtube - unet paper review in persian](https://www.youtube.com/watch?v=FyMvGuwz1GY&list=PLxVcaBJvMuAI8V7U0hEeRMffMNyjRbtTJ&index=4)
 
 
 
