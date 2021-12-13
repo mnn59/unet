@@ -210,6 +210,7 @@
 - [ ] [youtube - 3D Image Segmentation (CT/MRI) with a 2D UNET - part 3 - (WITH CODE)](https://www.youtube.com/watch?v=NSyEbJ7Phis)
 - [ ] [site - A collection of papers about Transformer in the field of medical image analysis](https://pythonrepo.com/repo/junyuchen245-Transformer_for_medical_image_analysis-python-deep-learning)
 - [ ] [youtube - Implementing original U-Net from scratch using PyTorch](https://www.youtube.com/watch?v=u1loyDCoGbE)
+- [ ] [colab - code - U_Net_PhC-C2DL-PSC_segmentation.ipynb](https://colab.research.google.com/github/deepimagej/models/blob/master/u-net_pancreatic_segmentation/U_Net_PhC_C2DL_PSC_segmentation.ipynb)
 
 
 
