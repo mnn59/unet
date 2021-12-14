@@ -215,6 +215,7 @@
 - [ ] [youtube - Implementing original U-Net from scratch using PyTorch](https://www.youtube.com/watch?v=u1loyDCoGbE)
 - [ ] [colab - code - U_Net_PhC-C2DL-PSC_segmentation.ipynb](https://colab.research.google.com/github/deepimagej/models/blob/master/u-net_pancreatic_segmentation/U_Net_PhC_C2DL_PSC_segmentation.ipynb)
 - [ ] [site - draw neural network](https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network)
+- [ ] [site - مجله ماشین بینایی و پردازش تصویر](http://jmvip.sinaweb.net/)
 
 
 
