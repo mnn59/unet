@@ -118,6 +118,7 @@
 - [ ] [Montgomery County X-ray Set](https://academictorrents.com/details/ac786f74878a5775c81d490b23842fd4736bfe33)
 - [ ] [National Library of Medicine - (GOOD)](https://lhncbc.nlm.nih.gov/LHC-downloads/downloads.html#tuberculosis-image-data-sets)
 - [ ] [HAM10000 dataset - dermatoscopic images skin lesions](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T)
+- [ ] [Kvasir-SEG Dataset - polyp images](https://datasets.simula.no/kvasir-seg/)
 
 
 
