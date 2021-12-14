@@ -118,6 +118,7 @@
 - [ ] [Montgomery County X-ray Set](https://academictorrents.com/details/ac786f74878a5775c81d490b23842fd4736bfe33)
 - [ ] [National Library of Medicine - (GOOD)](https://lhncbc.nlm.nih.gov/LHC-downloads/downloads.html#tuberculosis-image-data-sets)
 - [ ] [HAM10000 dataset - dermatoscopic images skin lesions](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T)
+	- [ ] [kaggle - example](https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000)
 - [ ] [Kvasir-SEG Dataset - polyp images](https://datasets.simula.no/kvasir-seg/)
 
 
@@ -213,6 +214,7 @@
 - [ ] [site - A collection of papers about Transformer in the field of medical image analysis](https://pythonrepo.com/repo/junyuchen245-Transformer_for_medical_image_analysis-python-deep-learning)
 - [ ] [youtube - Implementing original U-Net from scratch using PyTorch](https://www.youtube.com/watch?v=u1loyDCoGbE)
 - [ ] [colab - code - U_Net_PhC-C2DL-PSC_segmentation.ipynb](https://colab.research.google.com/github/deepimagej/models/blob/master/u-net_pancreatic_segmentation/U_Net_PhC_C2DL_PSC_segmentation.ipynb)
+- [ ] [site - draw neural network](https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network)
 
 
 
