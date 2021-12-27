@@ -79,6 +79,7 @@
 - [X] [arxiv - Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation](https://arxiv.org/pdf/2105.05537.pdf)
 	- [ ] [github-page](https://github.com/HuCaoFighting/Swin-Unet/tree/4375a8d6fa7d9c38184c5d3194db990a00a3e912)
 - [ ] [arxiv - Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/pdf/2103.14030.pdf)
+- [ ] [arxiv - Medical Image Segmentation with Limited Supervision: A Review of Deep Network Models - (for rahmati comments)](https://arxiv.org/pdf/2103.00429.pdf)
 
 
 
@@ -217,6 +218,7 @@
 - [ ] [site - draw neural network](https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network)
 - [ ] [site - مجله ماشین بینایی و پردازش تصویر](http://jmvip.sinaweb.net/)
 - [ ] [kaggle - Skin Cancer Segmentation using Unet - (CODE)](https://www.kaggle.com/rohan0000099/skin-cancer-segmentation-using-unet/notebook)
+- [ ] [kaggle - Identification and Segmentation of Nuclei in Cells](https://www.kaggle.com/paultimothymooney/identification-and-segmentation-of-nuclei-in-cells)
 
 
 
