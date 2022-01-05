@@ -369,4 +369,4 @@
 - [ ] [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
 - [ ] [BERT: Pre-training of Deep Bidirectional Transformers forLanguage Understanding](https://arxiv.org/pdf/1810.04805.pdf)
 - [ ] [Transformers: State-of-the-Art Natural Language Processing](https://arxiv.org/pdf/1910.03771.pdf)
-- [ ] [AN IMAGE IS WORTH 16X16 WORDS:TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE](AN IMAGE IS WORTH 16X16 WORDS:TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE)
+- [ ] [AN IMAGE IS WORTH 16X16 WORDS:TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE](https://arxiv.org/pdf/2010.11929.pdf)
