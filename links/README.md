@@ -359,6 +359,21 @@
 - [ ] [یک ارائه خوب](https://t.me/pytens/720)
 - [ ] [Companion Jupyter notebooks for the book "Deep Learning with Python"](https://github.com/fchollet/deep-learning-with-python-notebooks)
 - [ ] [Mastering Transformers - Meysam Asgari-Chenaghlu - Packet](https://www.youtube.com/playlist?list=PLeLcvrwLe185KjnLVOnoSmXISqmiavdbp)
+- [ ] [Transformers in Vision: From Zero to Hero](https://youtu.be/J-utjBdLCTo)
+- [ ] [Vision Transformer - Keras Code Examples!!](https://youtu.be/i2_zJ0ANrw0)
+- [ ] [Computer Vision with Transformers 3 parts](https://www.youtube.com/playlist?list=PLJgojBtbsuc2P-aSmTxz8Hw5HZ1PvCDv_)
+- [ ] [Zero to Hero in Computer Vision with TensorFlow 2 — Part I](https://towardsdatascience.com/zero-to-hero-in-computer-vision-with-tensorflow-2-part-i-973775b9b898)
+- [ ] [Vision Transformer in PyTorch](https://youtu.be/ovB0ddFtzzA)
+- [ ] [vision transformer and Deit using PyTorch Lightning](https://youtu.be/_mFHxLRrTd4)
+- [ ] [Towards Generic Vision Transformers for Supervised and Self-Supervised Representation Learning](https://youtu.be/fk-6JdRjLPw)
+- [ ] [Pytorch Transformers from Scratch (Attention is all you need)](https://youtu.be/U0s0f995w14)
+- [ ] [An Image is Worth 16x16 Words:Transformers for Image Recognition at Scale (Paper Explained)](https://www.youtube.com/watch?v=Gl48KciWZp0)
+- [ ] [Vision Transformer (ViT) - An image is worth 16x16 words | Paper Explained](https://www.youtube.com/watch?v=j6kuz_NqkG0)
+- [ ] [Vision Transformer + Nyströmformer + TTA](https://www.kaggle.com/ligtfeather/vision-transformer-nystr-mformer-tta#notebook-container)
+- [ ] [CNN or Transformer Pytorch XLA(TPU) for Cassava](https://www.kaggle.com/piantic/cnn-or-transformer-pytorch-xla-tpu-for-cassava)
+- [ ] [Vision Transformer (ViT): Tutorial + Baseline](https://www.kaggle.com/abhinand05/vision-transformer-vit-tutorial-baseline)
+- [ ] [Vision Transformer (ViT) : Visualize Attention Map](https://www.kaggle.com/piantic/vision-transformer-vit-visualize-attention-map)
+
 
 چند تا نکته برای ارائه :
 ۱. کد زدن چند مثال از ترانسفورمها
