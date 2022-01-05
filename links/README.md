@@ -314,6 +314,7 @@
 
 ## Transformers (Data-Mining Seminar)
 
+- [ ] [github implement vit FrancescoSaverioZuppichini](https://github.com/FrancescoSaverioZuppichini/ViT)
 - [ ] [Illustrated Guide to Transformers- Step by Step Explanation](https://towardsdatascience.com/illustrated-guide-to-transformers-step-by-step-explanation-f74876522bc0)
 - [ ] [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 14 – Transformers and Self-Attention](https://www.youtube.com/watch?v=5vcj8kSwBCY&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=14)
 	- [ ] [(new-version)Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 9 - Self- Attention and Transformers](https://www.youtube.com/watch?v=ptuGllU5SQQ&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=9)
@@ -378,8 +379,9 @@
 - [ ] [Vision Transformer (ViT): Tutorial + Baseline](https://www.kaggle.com/abhinand05/vision-transformer-vit-tutorial-baseline)
 - [ ] [Vision Transformer (ViT) : Visualize Attention Map](https://www.kaggle.com/piantic/vision-transformer-vit-visualize-attention-map)
 - [ ] [transformer network from scratch theory and code](https://www.youtube.com/watch?v=yL2xuD9IUBM&list=PLsu_bT2-wUK6c8ZL_bScPUS1TGKTxGXgf&index=2)
+- [ ] [hugginface chap 1](https://huggingface.co/course/chapter1/2?fw=pt)
+- [ ] [aparat mahdi samiei overfit](https://www.aparat.com/v/4Jivq)
 - [ ] 
-
 
 چند تا نکته برای ارائه :
 ۱. کد زدن چند مثال از ترانسفورمها
