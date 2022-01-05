@@ -323,7 +323,7 @@
 - [ ] [web.stanford.edu/class/cs224n/index.html#schedule-Tue Feb 9, Thu Feb 11](http://web.stanford.edu/class/cs224n/index.html#schedule)
 - [ ] [nlpwithfriends](https://nlpwithfriends.com/)
 	- [ ] [Talks about nlp, Transformer talk on 9 Oct 2021](https://www.youtube.com/watch?v=ly8PXa0qhjQ)
-- [ ] [Attention Is All You Need](https://www.youtube.com/watch?v=iDulhoQ2pro)]
+- [ ] [Attention Is All You Need](https://www.youtube.com/watch?v=iDulhoQ2pro)
 - [ ] [Attention Is All You Need - Paper Explained](https://www.youtube.com/watch?v=XowwKOAWYoQ)
 - [ ] [virgool-overfit-transformers-1](https://virgool.io/overfit/transformers1-b31wtfstlwvc)
 - [ ] [virgool-overfit-transformers-2](https://virgool.io/overfit/transformers2-ch6ojadripur)
