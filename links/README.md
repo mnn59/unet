@@ -236,6 +236,7 @@
 - [ ] [Lung Segmentation with Machine Learning](https://thecleverprogrammer.com/2020/09/06/lung-segmentation-with-machine-learning/)
 - [ ] [Customer Segmentation](https://thecleverprogrammer.com/2020/07/12/customer-segmentation/)
 - [ ] [site - bioimage](https://bioimage.io)
+- [ ] [site - einops](https://einops.rocks/)
 
 
 
@@ -362,9 +363,12 @@
 - [ ] [Transformers in Vision: From Zero to Hero](https://youtu.be/J-utjBdLCTo)
 - [ ] [Vision Transformer - Keras Code Examples!!](https://youtu.be/i2_zJ0ANrw0)
 - [ ] [Computer Vision with Transformers 3 parts](https://www.youtube.com/playlist?list=PLJgojBtbsuc2P-aSmTxz8Hw5HZ1PvCDv_)
+	- [ ] [gitlab](https://gitlab.com/juliensimon/huggingface-demos/-/blob/main/vision-transformer/train_vision_transformer.ipynb)
+	- [ ] [github](https://github.com/huggingface/notebooks/blob/master/sagemaker/09_image_classification_vision_transformer/sagemaker-notebook.ipynb)
 - [ ] [Zero to Hero in Computer Vision with TensorFlow 2 — Part I](https://towardsdatascience.com/zero-to-hero-in-computer-vision-with-tensorflow-2-part-i-973775b9b898)
 - [ ] [Vision Transformer in PyTorch](https://youtu.be/ovB0ddFtzzA)
 - [ ] [vision transformer and Deit using PyTorch Lightning](https://youtu.be/_mFHxLRrTd4)
+	- [ ] [Implementing Vi(sual)T(transformer) in PyTorch](https://github.com/FrancescoSaverioZuppichini/ViT)
 - [ ] [Towards Generic Vision Transformers for Supervised and Self-Supervised Representation Learning](https://youtu.be/fk-6JdRjLPw)
 - [ ] [Pytorch Transformers from Scratch (Attention is all you need)](https://youtu.be/U0s0f995w14)
 - [ ] [An Image is Worth 16x16 Words:Transformers for Image Recognition at Scale (Paper Explained)](https://www.youtube.com/watch?v=Gl48KciWZp0)
@@ -373,6 +377,8 @@
 - [ ] [CNN or Transformer Pytorch XLA(TPU) for Cassava](https://www.kaggle.com/piantic/cnn-or-transformer-pytorch-xla-tpu-for-cassava)
 - [ ] [Vision Transformer (ViT): Tutorial + Baseline](https://www.kaggle.com/abhinand05/vision-transformer-vit-tutorial-baseline)
 - [ ] [Vision Transformer (ViT) : Visualize Attention Map](https://www.kaggle.com/piantic/vision-transformer-vit-visualize-attention-map)
+- [ ] [transformer network from scratch theory and code](https://www.youtube.com/watch?v=yL2xuD9IUBM&list=PLsu_bT2-wUK6c8ZL_bScPUS1TGKTxGXgf&index=2)
+- [ ] 
 
 
 چند تا نکته برای ارائه :
