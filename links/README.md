@@ -16,7 +16,9 @@
 - [ ] [deephoosh site - vision transformer course in persian](https://deephoosh.com/courses/%da%a9%d8%a7%d8%b1%da%af%d8%a7%d9%87-computer-vision/lesson/%da%a9%d8%a7%d8%b1%da%af%d8%a7%d9%87-%d9%88%db%8c%da%98%d9%86-%d8%aa%d8%b1%d9%86%d8%b3%d9%81%d9%88%d8%b1%d9%85%d8%b1-%d9%82%d8%b3%d9%85%d8%aa-%d9%be%d9%86%d8%ac%d9%85-2/)
 	- [ ] [youtube - vision transformer](https://www.youtube.com/watch?v=5OB9-aW_7eg&list=PLxVcaBJvMuALsm0dALTbN5yd-BS2ZXnog)
 	- [ ] [youtube - unet paper review in persian](https://www.youtube.com/watch?v=FyMvGuwz1GY&list=PLxVcaBJvMuAI8V7U0hEeRMffMNyjRbtTJ&index=4)
-
+- [ ] [maktabkhooneh - 
+آموزش رایگان یادگیری عمیق با پایتون
+](https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D8%B9%D9%85%DB%8C%D9%82-%D8%A8%D8%A7-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86-mk1353/)
 
 
 
