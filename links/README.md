@@ -237,6 +237,7 @@
 - [ ] [Customer Segmentation](https://thecleverprogrammer.com/2020/07/12/customer-segmentation/)
 - [ ] [site - bioimage](https://bioimage.io)
 - [ ] [site - einops](https://einops.rocks/)
+- [ ] [site - MIM medical image processing software](https://www.mimsoftware.com/)
 
 
 
