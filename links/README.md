@@ -387,6 +387,7 @@
 - [ ] [aparat mahdi samiei overfit](https://www.aparat.com/v/4Jivq)
 - [ ] [youtube - A series of videos on the transformer - GOOD](https://www.youtube.com/playlist?list=PLDw5cZwIToCvXLVY2bSqt7F2gu8y-Rqje)
 - [ ] [youtube - An introduction to transfer learning in NLP and HuggingFace with Thomas Wolf](https://www.youtube.com/watch?v=t86G11tfVNw)
+- [ ] [dive into deep learning](d2l.ai/chapter_attention-mechanisms/transformer.html)
 
 چند تا نکته برای ارائه :
 ۱. کد زدن چند مثال از ترانسفورمها
