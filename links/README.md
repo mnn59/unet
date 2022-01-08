@@ -240,6 +240,7 @@
 - [ ] [site - bioimage](https://bioimage.io)
 - [ ] [site - einops](https://einops.rocks/)
 - [ ] [site - MIM medical image processing software](https://www.mimsoftware.com/)
+- [ ] [site - dgl - deep graph](https://www.dgl.ai/)
 
 
 
