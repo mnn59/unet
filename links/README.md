@@ -385,7 +385,7 @@
 - [ ] [transformer network from scratch theory and code](https://www.youtube.com/watch?v=yL2xuD9IUBM&list=PLsu_bT2-wUK6c8ZL_bScPUS1TGKTxGXgf&index=2)
 - [ ] [hugginface chap 1](https://huggingface.co/course/chapter1/2?fw=pt)
 - [ ] [aparat mahdi samiei overfit](https://www.aparat.com/v/4Jivq)
-- [ ] 
+- [ ] [youtube - A series of videos on the transformer - GOOD](https://www.youtube.com/playlist?list=PLDw5cZwIToCvXLVY2bSqt7F2gu8y-Rqje)
 
 چند تا نکته برای ارائه :
 ۱. کد زدن چند مثال از ترانسفورمها
