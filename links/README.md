@@ -221,6 +221,7 @@
 - [ ] [site - مجله ماشین بینایی و پردازش تصویر](http://jmvip.sinaweb.net/)
 - [ ] [kaggle - Skin Cancer Segmentation using Unet - (CODE)](https://www.kaggle.com/rohan0000099/skin-cancer-segmentation-using-unet/notebook)
 - [ ] [kaggle - Identification and Segmentation of Nuclei in Cells](https://www.kaggle.com/paultimothymooney/identification-and-segmentation-of-nuclei-in-cells)
+- [ ] [aparat - پردازش تصویر دانشگاه علم و صنعت - NOT GOOD!I don't know!!](https://www.aparat.com/v/9UCyV?playlist=1304262)
 
 
 
