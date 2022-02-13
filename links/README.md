@@ -315,6 +315,7 @@
 - [ ] [youtube - ViTBIS: Vision Transformer for Biomedical Image Segmentation](https://www.youtube.com/watch?v=C2334BGWIHw)
 - [ ] [youtube - Multi-task attention-based semi-supervised learning for medical image segmentation](https://www.youtube.com/watch?v=fRyH2ZE6mn0)
 - [ ] [github - stanford-tensorflow-tutorials](https://github.com/chiphuyen/stanford-tensorflow-tutorials)
+- [ ] [github - "Wikily" Neural Machine Translation Tailored to Cross-Lingual Tasks](https://github.com/rasoolims/ImageTranslate)
 
 
 ## Transformers (Data-Mining Seminar)
@@ -389,6 +390,7 @@
 - [ ] [youtube - A series of videos on the transformer - GOOD](https://www.youtube.com/playlist?list=PLDw5cZwIToCvXLVY2bSqt7F2gu8y-Rqje)
 - [ ] [youtube - An introduction to transfer learning in NLP and HuggingFace with Thomas Wolf](https://www.youtube.com/watch?v=t86G11tfVNw)
 - [ ] [dive into deep learning](d2l.ai/chapter_attention-mechanisms/transformer.html)
+- [ ] [github repository - Transformer Recipe](https://github.com/dair-ai/Transformers-Recipe)
 
 
 ### papers in Transformer data-mining seminar
@@ -396,4 +398,4 @@
 - [ ] [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
 - [ ] [BERT: Pre-training of Deep Bidirectional Transformers forLanguage Understanding](https://arxiv.org/pdf/1810.04805.pdf)
 - [ ] [Transformers: State-of-the-Art Natural Language Processing](https://arxiv.org/pdf/1910.03771.pdf)
-- [ ] [AN IMAGE IS WORTH 16X16 WORDS:TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE](https://arxiv.org/pdf/2010.11929.pdf)
+- [ ] [AN IS WORTH 16X16 WORDS:TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE](https://arxiv.org/pdf/2010.11929.pdf)
