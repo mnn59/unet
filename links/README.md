@@ -242,6 +242,7 @@
 - [ ] [site - einops](https://einops.rocks/)
 - [ ] [site - MIM medical image processing software](https://www.mimsoftware.com/)
 - [ ] [site - dgl - deep graph](https://www.dgl.ai/)
+- [ ] [site - brainweb](https://brainweb.bic.mni.mcgill.ca/brainweb/)
 
 
 
@@ -286,6 +287,7 @@
 - [Sohini Roychowdhury](https://github.com/sohiniroych)
 - [Maryam Asadi](https://scholar.google.com/citations?user=8UqpIK8AAAAJ&hl=en)
 - [Jason J. Corso](http://web.eecs.umich.edu/~jjcorso/)
+- [Hasan Rivaz](http://users.encs.concordia.ca/~hrivaz/)
 
 
 
