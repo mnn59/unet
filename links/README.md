@@ -224,6 +224,7 @@
 - [ ] [aparat - پردازش تصویر دانشگاه علم و صنعت - NOT GOOD!I don't know!!](https://www.aparat.com/v/9UCyV?playlist=1304262)
 - [ ] [youtube - UNET for Polyp Segmentation in TensorFlow - GOOD](https://www.youtube.com/watch?v=SOkXeGLa2qo)
 - [ ] [site - Gradio tutorial for creating a web app for ml tasks](https://www.youtube.com/watch?v=RiCQzBluTxU)
+- [ ] [site - wiki - computersciencewiki](https://computersciencewiki.org/index.php/Welcome)
 
 
 
