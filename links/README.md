@@ -225,6 +225,7 @@
 - [ ] [youtube - UNET for Polyp Segmentation in TensorFlow - GOOD](https://www.youtube.com/watch?v=SOkXeGLa2qo)
 - [ ] [site - Gradio tutorial for creating a web app for ml tasks](https://www.youtube.com/watch?v=RiCQzBluTxU)
 - [ ] [site - wiki - computersciencewiki](https://computersciencewiki.org/index.php/Welcome)
+- [ ] [youtube - playlist - McMedHacks 2022](https://www.youtube.com/playlist?list=PLVH7T2_su-vkHLGQXJ0gHijbhjLJOCbaq)
 
 
 
