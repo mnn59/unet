@@ -226,6 +226,10 @@
 - [ ] [site - Gradio tutorial for creating a web app for ml tasks](https://www.youtube.com/watch?v=RiCQzBluTxU)
 - [ ] [site - wiki - computersciencewiki](https://computersciencewiki.org/index.php/Welcome)
 - [ ] [youtube - playlist - McMedHacks 2022](https://www.youtube.com/playlist?list=PLVH7T2_su-vkHLGQXJ0gHijbhjLJOCbaq)
+- [ ] [youtube - paper review unet non english](https://www.youtube.com/watch?v=O_7mR4H9WLk)
+- [ ] [youtube - paper review transunet non english](https://www.youtube.com/watch?v=8tBVvUXHDcA)
+- [ ] [youtube - paper review transunet non english 2](https://www.youtube.com/watch?v=OD-CwgjwLS4)
+- [ ] 
 
 
 
