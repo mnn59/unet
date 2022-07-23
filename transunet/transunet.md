@@ -374,7 +374,7 @@ R50-ViT-CUP :
 
 **Hتابع زیان فاصله هاسدروف (HD) Hausdorff distance (HD) loss:** هدف این تابع برآورد فاصله هاسدروف در خروجی محتمل شبکه CNN است تا به این  ترتیب یاد بگیرد که فاصله هاسدروف را مستقیماً کاهش دهد. فاصله هاسدروف یا  HD را می‌توان به کمک پارامتر انتقال فاصله  در تصویر واقعی و قطعه‌بندی‌شده برآورد کرد.
 
-![ts-6](E:\Term 9 University\Project\other\swin-unet-from-paper-authors\learnings\ts-6.jpg)
+![ts-6](https://github.com/mnn59/unet/blob/main/transunet/images/ts-6.jpg)
 
 [فیلم راجع به تفاوت dice و iou](https://mulloverthing.com/is-dice-coefficient-same-as-iou/)
 
