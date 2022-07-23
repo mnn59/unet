@@ -163,7 +163,7 @@ Synapse multi-organ segmentation dataset. ما از این دیتاست چند �
 
 
 
-![Screenshot 2022-07-14 at 05-08-53 2102.04306v1.pdf](https://github.com/mnn59/unet/tree/main/transunet/images/Screenshot 2022-07-14 at 05-08-53 2102.04306v1.pdf.png)
+![Screenshot 2022-07-14 at 05-08-53 2102.04306v1.pdf](https://github.com/mnn59/unet/blob/main/transunet/images/Screenshot%202022-07-14%20at%2005-08-53%202102.04306v1.pdf.png)
 
 
 
@@ -228,7 +228,7 @@ TransUNet ما که بر پایه R50-ViT-CUP ساخته شده است و به �
 
 
 
-![image-20220714212522244](https://github.com/mnn59/unet/tree/main/transunet/images/Screenshot 2022-07-14 212515.png)
+![image-20220714212522244](https://github.com/mnn59/unet/blob/main/transunet/images/Screenshot%202022-07-14%20212515.jpg)
 
 
 
@@ -250,7 +250,7 @@ TransUNet ما که بر پایه R50-ViT-CUP ساخته شده است و به �
 
 وضوح ورودی پیش فرض برای Transunet، 224×224 است. در اینجا، همانطور که در جدول 2 نشان داده شده است، ما همچنین نتایج آموزش TransUNet را بر روی 512×512 با وضوح بالا ارائه می کنیم.
 
-![image-20220714213809843](https://github.com/mnn59/unet/tree/main/transunet/images/Screenshot 2022-07-14 213803.png)
+![image-20220714213809843](https://github.com/mnn59/unet/blob/main/transunet/images/Screenshot%202022-07-14%20213803.jpg)
 
 
 
@@ -268,7 +268,7 @@ TransUNet ما که بر پایه R50-ViT-CUP ساخته شده است و به �
 
 ما همچنین تأثیر اندازه پچ را بر TransUNet بررسی می کنیم. نتایج در جدول 3 خلاصه شده است. مشاهده می شود که عملکرد بخش بندی بالاتر و بهتر معمولاً با اندازه پچ کوچکتر به دست می آید. 
 
-![Screenshot 2022-07-15 at 00-18-26 2102.04306.pdf](https://github.com/mnn59/unet/tree/main/transunet/images/Screenshot 2022-07-15 at 00-18-26 2102.04306.pdf.png)
+![Screenshot 2022-07-15 at 00-18-26 2102.04306.pdf](https://github.com/mnn59/unet/blob/main/transunet/images/Screenshot%202022-07-15%20at%2000-18-26%202102.04306.pdf.png)
 
 
 
@@ -298,17 +298,17 @@ Large :
 
 از جدول 4 نتیجه می گیریم که مدل بزرگتر منجر به عملکرد بهتر می شود. با در نظر گرفتن هزینه محاسبات، مدل "Base" را برای همه آزمایش ها اتخاذ می کنیم. 
 
-![Screenshot 2022-07-15 at 00-34-10 2102.04306.pdf](https://github.com/mnn59/unet/tree/main/transunet/images/Screenshot 2022-07-15 at 00-34-10 2102.04306.pdf.png)
+![Screenshot 2022-07-15 at 00-34-10 2102.04306.pdf](https://github.com/mnn59/unet/blob/main/transunet/images/Screenshot%202022-07-15%20at%2000-34-10%202102.04306.pdf.png)
 
 
 
 مقایسه کیفی رویکردهای مختلف با تجسم. از چپ به راست: (الف) Ground Truth، (ب) TransUNet، (ج) R50-ViT-CUP، (د) R50-AttnUNet، (ه) R50-U-Net. روش ما مثبت کاذب کمتری را پیش‌بینی می‌کند و اطلاعات دقیق‌تری را حفظ می‌کند.
 
-![Screenshot 2022-07-15 at 00-35-37 2102.04306.pdf](https://github.com/mnn59/unet/tree/main/transunet/images/Screenshot 2022-07-15 at 00-35-37 2102.04306.pdf.png)
+![Screenshot 2022-07-15 at 00-35-37 2102.04306.pdf](https://github.com/mnn59/unet/blob/main/transunet/images/Screenshot%202022-07-15%20at%2000-35-37%202102.04306.pdf.png)
 
 و اما این جدول از دیتاست ACDC : 
 
-![image-20220715003639717](https://github.com/mnn59/unet/tree/main/transunet/images/Screenshot 2022-07-15 003618.jpg)
+![image-20220715003639717](https://github.com/mnn59/unet/blob/main/transunet/images/Screenshot%202022-07-15%20003618.jpg)
 
 
 
