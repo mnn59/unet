@@ -88,7 +88,8 @@ N تعداد patch ها هست. ( یا همان input sequence length)
 
 
 
-![transunet-arch](https://github.com/mnn59/unet/tree/main/transunet/images/transunet-arch.png)
+<!-- ![transunet-arch](https://github.com/mnn59/unet/tree/main/transunet/images/transunet-arch.png) -->
+![transunet-arch](https://github.com/mnn59/unet/blob/main/transunet/images/transunet-arch.png)
 
 
 
