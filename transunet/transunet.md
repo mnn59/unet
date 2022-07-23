@@ -88,7 +88,6 @@ N تعداد patch ها هست. ( یا همان input sequence length)
 
 
 
-<!-- ![transunet-arch](https://github.com/mnn59/unet/tree/main/transunet/images/transunet-arch.png) -->
 ![transunet-arch](https://github.com/mnn59/unet/blob/main/transunet/images/transunet-arch.png)
 
 
@@ -99,7 +98,8 @@ N تعداد patch ها هست. ( یا همان input sequence length)
 
 
 
-![Screenshot 2022-07-14 041936](https://github.com/mnn59/unet/tree/main/transunet/images/Screenshot 2022-07-14 041936.jpg)
+![Screenshot 2022-07-14 041936](https://github.com/mnn59/unet/blob/main/transunet/images/Screenshot%202022-07-14%20041936.jpg)
+
 
 
 
@@ -109,7 +109,7 @@ N تعداد patch ها هست. ( یا همان input sequence length)
 
 
 
-![Screenshot 2022-07-14 at 04-22-32 2102.04306v1.pdf](https://github.com/mnn59/unet/tree/main/transunet/images/Screenshot 2022-07-14 at 04-22-32 2102.04306v1.pdf.png)
+![Screenshot 2022-07-14 at 04-22-32 2102.04306v1.pdf](https://github.com/mnn59/unet/tree/main/transunet/images/Screenshot%202022-07-14%20at%2004-22-32%202102.04306v1.pdf.png)
 
 
 
