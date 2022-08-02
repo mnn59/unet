@@ -404,6 +404,8 @@
 - [ ] [youtube - An introduction to transfer learning in NLP and HuggingFace with Thomas Wolf](https://www.youtube.com/watch?v=t86G11tfVNw)
 - [ ] [dive into deep learning](d2l.ai/chapter_attention-mechanisms/transformer.html)
 - [ ] [github repository - Transformer Recipe](https://github.com/dair-ai/Transformers-Recipe)
+- [ ] [site - nlp.seas.harvard.edu/annotated-transformer - (NEW)](http://nlp.seas.harvard.edu/annotated-transformer/)
+- [ ] [site - Transformers from Scratch Blog Post](https://e2eml.school/transformers.html)
 
 
 ### papers in Transformer data-mining seminar
