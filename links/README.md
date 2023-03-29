@@ -229,7 +229,8 @@
 - [ ] [youtube - paper review unet non english](https://www.youtube.com/watch?v=O_7mR4H9WLk)
 - [ ] [youtube - paper review transunet non english](https://www.youtube.com/watch?v=8tBVvUXHDcA)
 - [ ] [youtube - paper review transunet non english 2](https://www.youtube.com/watch?v=OD-CwgjwLS4)
-- [ ] 
+- [ ] [github - kvasir-seg implementation paper](https://github.com/GeorgeBatch/kvasir-seg)
+	- [ ] [youtube presentation link](https://www.youtube.com/watch?v=bQ1w3Rtp4bM)
 
 
 
